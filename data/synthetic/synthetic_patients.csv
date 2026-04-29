@@ -1,0 +1,1001 @@
+AGE,GENDER,RACE,ETHNICITY,MARITAL,HEALTHCARE_EXPENSES,HEALTHCARE_COVERAGE,CONDITION_1,CONDITION_2,CONDITION_3,CONDITION_4,CONDITION_5
+40.488595035042266,F,black,hispanic,W,355199.7490031369,0.0,Heart Disease,,COPD,Hyperlipidemia,
+604.8294898263705,M,asian,hispanic,D,174927.69370974947,0.0,Asthma,Heart Disease,Hypertension,Anxiety,COPD
+294.8264786980254,F,black,hispanic,W,1151074.6622838392,620123.9730842375,Asthma,Diabetes,Arthritis,Arthritis,Arthritis
+663.9246622391403,M,asian,hispanic,W,0.0,0.0,Heart Disease,Arthritis,Heart Disease,Anxiety,Hyperlipidemia
+0.0,M,asian,nonhispanic,M,0.0,88390.19751471048,Heart Disease,Depression,Depression,Asthma,COPD
+236.13071766020335,M,black,nonhispanic,D,115693.51261352797,0.0,Depression,Hyperlipidemia,COPD,Asthma,COPD
+143.53100296197238,F,white,nonhispanic,S,0.0,58372.21790172331,Diabetes,Depression,Depression,COPD,Hyperlipidemia
+0.0,M,black,nonhispanic,D,0.0,0.0,Arthritis,Arthritis,Obesity,Heart Disease,Heart Disease
+13.490534271532297,M,asian,nonhispanic,W,112877.16820624332,0.0,Hyperlipidemia,Obesity,Arthritis,Anxiety,Hyperlipidemia
+0.0,M,asian,nonhispanic,W,0.0,0.0,Hypertension,,Anxiety,Hypertension,COPD
+0.0,M,white,nonhispanic,W,0.0,796717.1016079559,Heart Disease,Depression,Asthma,,Depression
+860.991027689539,M,white,nonhispanic,D,0.0,0.0,Depression,Arthritis,Heart Disease,COPD,Anxiety
+0.0,M,white,hispanic,D,0.0,334939.1667479538,Asthma,Arthritis,Asthma,,Hyperlipidemia
+943.3555880205892,F,black,nonhispanic,D,101639.67471557888,1080195.3364284984,Obesity,Arthritis,Hyperlipidemia,Heart Disease,Obesity
+532.0848448084516,M,native,hispanic,W,164809.22823737387,262254.59322480374,Obesity,Hyperlipidemia,,Asthma,Hypertension
+0.0,M,white,hispanic,D,378139.2100583712,532363.0519717744,Diabetes,Arthritis,,Hypertension,COPD
+0.0,F,asian,nonhispanic,M,0.0,0.0,,Heart Disease,Arthritis,Heart Disease,Depression
+193.39233644577905,F,asian,nonhispanic,M,0.0,794076.2607605521,,Obesity,COPD,Arthritis,COPD
+382.87374165928435,M,asian,hispanic,D,0.0,0.0,Heart Disease,Asthma,Asthma,,Hypertension
+0.0,M,white,nonhispanic,M,0.0,0.0,Arthritis,Anxiety,Anxiety,Arthritis,Heart Disease
+0.0,F,black,hispanic,D,573496.928738051,158782.30866727702,Asthma,Hyperlipidemia,Anxiety,Heart Disease,Arthritis
+628.2682498575919,F,other,nonhispanic,W,0.0,205225.29603067465,Arthritis,Hyperlipidemia,Arthritis,Diabetes,Hypertension
+1012.1286499060542,F,asian,nonhispanic,W,127935.91648679439,300483.616730044,COPD,Asthma,Arthritis,Heart Disease,Diabetes
+200.77998513998457,M,asian,nonhispanic,D,372231.1551887255,0.0,Diabetes,Hypertension,Hypertension,Anxiety,Asthma
+0.0,M,asian,nonhispanic,S,2172.1830959136787,0.0,Asthma,Diabetes,Hyperlipidemia,Obesity,COPD
+52.1528369965377,F,white,hispanic,M,235869.02526845306,158552.44227231943,Hypertension,Diabetes,Hypertension,Hypertension,Asthma
+0.0,F,white,hispanic,W,228595.44804918132,201028.3198927857,Anxiety,,Heart Disease,Arthritis,Arthritis
+536.0104560750667,M,black,nonhispanic,M,395443.6224931319,149058.65601429224,Anxiety,Hyperlipidemia,COPD,Hypertension,COPD
+156.6316857429691,F,white,hispanic,S,0.0,330747.8739149037,Arthritis,Obesity,Anxiety,Hypertension,Asthma
+855.4971134469249,M,white,nonhispanic,M,0.0,158474.62891796822,,,Hypertension,Diabetes,Depression
+0.0,M,other,hispanic,D,2672224.1201492483,0.0,Hyperlipidemia,Depression,Asthma,Hypertension,
+0.0,M,asian,hispanic,D,847979.5927639895,908528.3990099449,Asthma,Diabetes,Depression,Depression,Hyperlipidemia
+172.7386075440948,F,native,hispanic,D,750236.3015070239,0.0,COPD,Obesity,Arthritis,COPD,COPD
+0.0,M,black,hispanic,M,1120751.0221601152,38754.01237802468,Obesity,Diabetes,Asthma,Anxiety,Asthma
+0.0,M,native,nonhispanic,D,0.0,671719.5161053787,Hypertension,Depression,Obesity,Obesity,Anxiety
+354.9215860501433,M,native,nonhispanic,S,0.0,154595.0293772146,Anxiety,Asthma,Obesity,Asthma,Hypertension
+0.0,F,asian,hispanic,W,0.0,311205.1488980599,Depression,Depression,Depression,Anxiety,
+0.0,M,white,nonhispanic,M,0.0,196886.5772820951,Anxiety,,Diabetes,Hypertension,Depression
+0.0,M,other,nonhispanic,D,0.0,38613.15617863894,Arthritis,COPD,Depression,Arthritis,Depression
+53.9291007376919,F,white,hispanic,M,123854.07314689353,158684.03791184098,Heart Disease,Arthritis,COPD,Hyperlipidemia,Depression
+0.0,F,hispanic,nonhispanic,S,0.0,728689.2180731171,Hyperlipidemia,Asthma,Heart Disease,Asthma,Anxiety
+0.0,M,other,hispanic,D,0.0,0.0,Arthritis,COPD,Depression,,Anxiety
+0.0,F,black,hispanic,W,0.0,0.0,Obesity,Anxiety,Obesity,Arthritis,Anxiety
+0.0,M,white,hispanic,D,0.0,0.0,,Depression,Anxiety,Hyperlipidemia,Diabetes
+160.34390424519572,M,asian,nonhispanic,S,864641.0512223187,0.0,Obesity,Hyperlipidemia,Heart Disease,Asthma,COPD
+0.0,M,native,hispanic,D,890435.9200773762,149998.62973900064,Diabetes,Diabetes,Depression,Diabetes,Asthma
+0.0,M,hispanic,nonhispanic,D,1272693.3875152955,0.0,Arthritis,Depression,Arthritis,COPD,Heart Disease
+0.0,M,native,nonhispanic,W,58238.468284046015,258131.2409489959,Diabetes,,COPD,COPD,COPD
+50.37496283784166,M,white,hispanic,D,423334.47710515495,270385.48281049536,Depression,Diabetes,Asthma,Arthritis,
+491.7345839925846,M,white,hispanic,D,0.0,0.0,Anxiety,,COPD,Asthma,Asthma
+656.2397284224222,F,asian,hispanic,M,1194901.5829449708,230831.63548329563,Depression,Hyperlipidemia,Hyperlipidemia,COPD,Hypertension
+203.43831490837653,M,white,hispanic,D,0.0,74612.79209578551,Diabetes,Arthritis,Arthritis,Arthritis,Heart Disease
+0.0,M,white,hispanic,D,1115956.6675068343,0.0,Obesity,Asthma,Arthritis,Heart Disease,Obesity
+0.0,F,white,nonhispanic,W,66953.74205486554,0.0,COPD,Heart Disease,Hyperlipidemia,Asthma,Depression
+0.0,M,other,hispanic,M,276701.2080940868,133639.9255562986,,Hyperlipidemia,Arthritis,Diabetes,Asthma
+0.0,M,black,nonhispanic,D,109199.96439702772,329026.2700815504,Depression,Anxiety,Heart Disease,,COPD
+323.6581527541043,M,native,hispanic,S,0.0,0.0,,Diabetes,Anxiety,Asthma,Heart Disease
+0.0,M,hispanic,nonhispanic,W,1020560.5167751473,244474.0408647564,Anxiety,Obesity,COPD,Heart Disease,
+793.5780904002232,F,other,hispanic,D,0.0,483837.5256138962,Diabetes,Diabetes,Heart Disease,Diabetes,Hypertension
+0.0,F,native,hispanic,M,0.0,0.0,Diabetes,Hypertension,Hypertension,Hyperlipidemia,Obesity
+278.78414246956737,M,white,nonhispanic,D,524428.1051896374,0.0,Hyperlipidemia,Depression,Diabetes,Asthma,COPD
+0.0,F,other,hispanic,D,16483.195872439188,0.0,Arthritis,Hyperlipidemia,Arthritis,Hyperlipidemia,Hypertension
+0.0,F,asian,nonhispanic,M,112327.71311149545,406755.1575298348,Heart Disease,Depression,Arthritis,Asthma,Hyperlipidemia
+33.24761353721326,M,asian,hispanic,D,1194494.271965455,105735.48348619355,Depression,COPD,Depression,,Heart Disease
+172.81818076957916,F,other,hispanic,D,1168304.4782094287,0.0,Hyperlipidemia,Heart Disease,Depression,Anxiety,Depression
+245.24797329799574,M,native,hispanic,M,435468.0153648356,0.0,Obesity,Depression,Diabetes,Asthma,COPD
+86.7084136592232,M,other,nonhispanic,D,251693.0620146481,1130090.868617743,Heart Disease,Obesity,Hypertension,Asthma,COPD
+124.3941559139131,M,white,hispanic,D,488679.1380110123,0.0,Diabetes,COPD,COPD,Anxiety,Diabetes
+0.0,M,black,nonhispanic,S,1080101.7554494669,413478.9065885945,Anxiety,Hypertension,COPD,,Hypertension
+46.92235471050041,F,asian,nonhispanic,W,308008.7190404683,668241.5023200228,Depression,Asthma,COPD,COPD,
+0.0,M,asian,nonhispanic,D,234543.771933528,0.0,Arthritis,Diabetes,Obesity,Asthma,Depression
+244.73552071623112,F,hispanic,nonhispanic,W,113913.97618673665,0.0,Depression,,Diabetes,Hypertension,Anxiety
+0.0,M,other,nonhispanic,W,778651.5859486538,691769.0470169839,,Hypertension,COPD,Hypertension,Anxiety
+0.0,F,asian,hispanic,W,0.0,0.0,Obesity,Arthritis,Anxiety,Hypertension,Depression
+261.2654287377739,F,black,nonhispanic,W,37967.367616707386,0.0,Depression,Depression,COPD,Heart Disease,Diabetes
+230.77909225403698,M,white,hispanic,W,538252.3536958243,0.0,Anxiety,Diabetes,COPD,COPD,Hypertension
+224.82882801504903,M,black,nonhispanic,M,0.0,128574.8591938294,COPD,Arthritis,Heart Disease,Obesity,
+0.0,F,black,hispanic,W,951425.3700011442,429302.2460039458,Heart Disease,Diabetes,Anxiety,Arthritis,Hypertension
+0.0,M,asian,hispanic,M,316805.24329819565,402994.3822974307,Hyperlipidemia,Arthritis,COPD,COPD,COPD
+598.5270521791205,M,hispanic,hispanic,S,210733.7461579429,0.0,Arthritis,Hyperlipidemia,,Hyperlipidemia,Asthma
+0.0,F,white,hispanic,M,68082.68749194471,98682.43838416334,Obesity,Depression,Heart Disease,Asthma,COPD
+312.83257767062935,F,asian,hispanic,D,0.0,0.0,Hyperlipidemia,,Heart Disease,Arthritis,Hyperlipidemia
+38.65456959218746,F,black,hispanic,D,0.0,245432.17299642667,Arthritis,Hyperlipidemia,Depression,Hyperlipidemia,
+987.3092835998538,F,asian,nonhispanic,S,0.0,841010.4760487877,Depression,Hyperlipidemia,Asthma,Diabetes,Depression
+43.42156246311516,M,hispanic,nonhispanic,D,0.0,271116.68361315463,Arthritis,Anxiety,Heart Disease,Depression,Anxiety
+0.0,F,asian,hispanic,M,327934.48787141184,950228.3818327559,,Asthma,Asthma,,
+537.2565244080488,F,asian,hispanic,S,0.0,219364.9589809089,COPD,Depression,Asthma,Heart Disease,Hyperlipidemia
+237.39782072796086,M,white,nonhispanic,W,0.0,0.0,Obesity,Depression,Diabetes,Diabetes,Asthma
+0.0,M,asian,nonhispanic,M,697521.3834777098,388868.50018804806,,Heart Disease,Asthma,COPD,Diabetes
+0.0,M,native,nonhispanic,D,302578.47867720085,1439771.6771679993,Obesity,Hyperlipidemia,Obesity,Asthma,Diabetes
+65.38673262448941,M,white,hispanic,W,0.0,51114.28847425015,Arthritis,Diabetes,,Hypertension,Hyperlipidemia
+0.0,M,asian,nonhispanic,W,968528.8525583821,0.0,Obesity,Obesity,Hypertension,Hyperlipidemia,COPD
+0.0,F,asian,nonhispanic,W,802941.8645863722,128312.74681440325,Heart Disease,COPD,Heart Disease,Heart Disease,COPD
+0.0,M,black,nonhispanic,S,0.0,0.0,Hypertension,Depression,Anxiety,Hyperlipidemia,Arthritis
+166.0242429077404,F,white,hispanic,M,205138.82028087077,0.0,Anxiety,Diabetes,Depression,Asthma,Diabetes
+39.36555142920477,M,native,nonhispanic,D,617313.7433764873,0.0,Anxiety,Diabetes,COPD,Hyperlipidemia,Diabetes
+0.8791319346962965,F,asian,hispanic,S,0.0,0.0,Heart Disease,Depression,Hypertension,Heart Disease,Asthma
+0.0,M,hispanic,nonhispanic,S,0.0,130788.80776844284,Hyperlipidemia,,Heart Disease,Hypertension,Depression
+160.4485215280949,F,asian,hispanic,D,353851.11149264977,0.0,Heart Disease,,Hypertension,Heart Disease,Hypertension
+4.435028028127039,M,hispanic,nonhispanic,D,166719.30401748835,0.0,,Diabetes,Arthritis,Depression,Anxiety
+138.5244158220388,M,white,hispanic,W,477119.881573791,254901.88249269238,Depression,Asthma,COPD,COPD,Obesity
+311.2171857275915,M,white,nonhispanic,W,0.0,61346.05159346931,Depression,Depression,Heart Disease,COPD,Diabetes
+0.0,M,black,nonhispanic,W,212407.9313438168,0.0,Depression,Hyperlipidemia,Anxiety,Hyperlipidemia,Asthma
+0.0,F,black,nonhispanic,M,426750.32649269863,234796.83731323067,Anxiety,Diabetes,Hypertension,Hyperlipidemia,COPD
+446.30285684049494,M,white,hispanic,W,645875.7010055607,0.0,Anxiety,COPD,COPD,Asthma,Anxiety
+492.4807205867306,M,black,hispanic,D,258950.94347594952,6180.11085392932,Obesity,Heart Disease,Hypertension,Arthritis,Depression
+0.0,M,asian,nonhispanic,D,0.0,63672.43883477422,Heart Disease,Diabetes,COPD,Arthritis,COPD
+668.2719550731672,F,asian,nonhispanic,D,0.0,0.0,COPD,Depression,Depression,Diabetes,Asthma
+0.0,M,asian,nonhispanic,D,0.0,477005.4023883949,Diabetes,Obesity,Diabetes,Hypertension,Obesity
+0.0,F,asian,nonhispanic,W,121718.8834561556,0.0,Obesity,Diabetes,COPD,COPD,Diabetes
+0.0,M,black,nonhispanic,D,0.0,473402.881175178,Obesity,COPD,Asthma,Hyperlipidemia,COPD
+298.4713125742691,F,native,hispanic,W,0.0,19909.087736188718,,Arthritis,Heart Disease,Heart Disease,Obesity
+489.20631379876426,M,white,nonhispanic,S,378661.56241463614,0.0,Anxiety,Arthritis,COPD,Anxiety,COPD
+0.0,F,black,hispanic,M,0.0,780480.2769870758,COPD,Arthritis,Obesity,COPD,Hyperlipidemia
+0.0,M,asian,hispanic,M,0.0,0.0,Obesity,Anxiety,Anxiety,Heart Disease,COPD
+8.681442874758138,M,white,nonhispanic,D,685090.6172463653,982428.8554881355,,Asthma,,Heart Disease,COPD
+331.53455207145856,F,white,nonhispanic,W,0.0,0.0,Depression,Obesity,Asthma,,Hyperlipidemia
+256.43359671064127,F,native,nonhispanic,D,208648.1914191694,209939.92508328357,COPD,Hypertension,Obesity,Asthma,COPD
+604.9734902071945,M,other,nonhispanic,D,59366.23830908968,1490216.5408788063,,Heart Disease,Diabetes,Asthma,Depression
+128.47354382035184,F,asian,nonhispanic,M,0.0,246986.41422786482,,Diabetes,Heart Disease,Heart Disease,Anxiety
+97.27981815445628,M,black,nonhispanic,D,0.0,0.0,Diabetes,Asthma,Heart Disease,Heart Disease,COPD
+0.0,M,asian,nonhispanic,W,0.0,0.0,,Hypertension,Depression,Asthma,Hyperlipidemia
+179.6233005104341,M,hispanic,nonhispanic,M,499545.4412945954,625694.5422714476,COPD,Arthritis,Hypertension,Depression,COPD
+0.0,M,black,hispanic,M,584089.1688300925,503460.3032772103,Depression,Asthma,Depression,Depression,Arthritis
+0.0,M,white,nonhispanic,W,402984.4133730186,0.0,Diabetes,Hypertension,Arthritis,Asthma,Anxiety
+0.0,F,black,hispanic,W,623662.8725850852,45038.664708690725,Obesity,Hypertension,Depression,,Asthma
+0.0,M,black,hispanic,S,78015.58930657397,451604.90945636097,Hypertension,Diabetes,Arthritis,Hyperlipidemia,Hypertension
+559.9163469009702,M,white,nonhispanic,M,512365.8295663948,0.0,Depression,Hypertension,Hypertension,Diabetes,Hypertension
+446.04836126956457,M,asian,hispanic,M,132850.39341095398,0.0,,,Diabetes,Obesity,Depression
+274.91868731250395,M,black,nonhispanic,W,568351.8836150162,0.0,Diabetes,Obesity,COPD,Hypertension,Asthma
+114.90258861494416,M,hispanic,hispanic,S,1218746.6148716854,0.0,Heart Disease,,Heart Disease,Asthma,Heart Disease
+0.0,F,black,hispanic,S,0.0,0.0,Anxiety,Heart Disease,Obesity,Hyperlipidemia,Diabetes
+198.83852366515762,F,asian,hispanic,D,1186110.397158842,0.0,Diabetes,Hyperlipidemia,Heart Disease,Hypertension,Diabetes
+621.0981307520524,M,white,hispanic,W,553391.7828259866,0.0,Heart Disease,COPD,Asthma,Hyperlipidemia,
+0.0,M,asian,nonhispanic,D,284928.61900339945,0.0,Diabetes,Anxiety,Arthritis,Heart Disease,Anxiety
+5.036737238999521,M,white,hispanic,M,497786.28825634456,0.0,Diabetes,Anxiety,Hyperlipidemia,Arthritis,Diabetes
+579.4309805783088,M,black,nonhispanic,D,0.0,0.0,Diabetes,Obesity,Arthritis,Diabetes,Asthma
+0.0,M,asian,hispanic,S,0.0,519352.36566395906,Arthritis,Arthritis,,Heart Disease,Heart Disease
+328.0171785322723,M,hispanic,hispanic,W,0.0,0.0,Arthritis,Arthritis,Anxiety,COPD,Diabetes
+204.11551400178544,M,other,hispanic,D,192220.87095405528,0.0,Depression,COPD,Anxiety,COPD,Hypertension
+121.22924800292888,M,black,hispanic,D,0.0,210513.25220040255,Asthma,Hyperlipidemia,Diabetes,Arthritis,Obesity
+246.75139477420223,M,black,nonhispanic,S,504696.5792490864,52772.91518594372,Asthma,Obesity,Asthma,Diabetes,Asthma
+285.62472148505,M,black,hispanic,S,0.0,0.0,Diabetes,Depression,Diabetes,Anxiety,COPD
+102.10506279663198,M,native,nonhispanic,D,0.0,127061.97930252047,COPD,Depression,Hypertension,Diabetes,COPD
+650.8788065992245,M,native,nonhispanic,D,0.0,123341.4964042776,Depression,Obesity,Obesity,COPD,Asthma
+0.0,F,other,hispanic,M,604118.7414688766,0.0,Hypertension,Heart Disease,Anxiety,Anxiety,Obesity
+618.2016145783718,M,asian,nonhispanic,M,2223786.591609825,0.0,Diabetes,,Asthma,Depression,Asthma
+305.5378439149565,M,white,hispanic,S,0.0,200010.18235333177,Diabetes,Depression,,Depression,Obesity
+0.0,M,black,nonhispanic,D,0.0,586537.593024583,COPD,COPD,Arthritis,Obesity,COPD
+0.0,F,other,nonhispanic,S,349090.6011175522,1782364.0158033252,Arthritis,,Heart Disease,Diabetes,Obesity
+34.053860066171595,M,white,hispanic,S,0.0,0.0,Diabetes,Anxiety,Diabetes,Asthma,COPD
+0.0,M,asian,hispanic,W,624970.5923578993,0.0,Diabetes,Arthritis,Anxiety,Obesity,Hypertension
+651.6601841607317,F,asian,hispanic,W,0.0,0.0,Depression,Depression,Heart Disease,Asthma,Depression
+247.21987132562248,F,native,hispanic,D,0.0,0.0,Diabetes,Anxiety,Arthritis,Obesity,Asthma
+0.0,M,asian,hispanic,D,118472.11268309774,0.0,Arthritis,Diabetes,Anxiety,Anxiety,COPD
+0.0,M,native,nonhispanic,D,175550.01700277984,0.0,Asthma,Heart Disease,Asthma,Asthma,COPD
+0.0,M,native,nonhispanic,D,858422.9464053666,0.0,Depression,Depression,Obesity,Obesity,Anxiety
+0.0,F,white,nonhispanic,W,1771441.7192444126,0.0,Obesity,Heart Disease,Hypertension,Asthma,Asthma
+398.576387460591,F,native,hispanic,D,0.0,0.0,Anxiety,Hyperlipidemia,Depression,Diabetes,Hypertension
+0.0,M,asian,hispanic,D,0.0,0.0,Heart Disease,Heart Disease,,Diabetes,Heart Disease
+0.0,F,native,hispanic,W,129979.72483107979,0.0,Anxiety,COPD,Diabetes,COPD,Asthma
+0.0,M,native,hispanic,D,90933.41526244153,0.0,Obesity,Asthma,Hypertension,,Heart Disease
+100.03346611595728,F,black,nonhispanic,M,549698.9094856809,736602.2411568366,Arthritis,Obesity,Asthma,Depression,Diabetes
+1359.665487958658,M,hispanic,nonhispanic,D,3683.741373407509,302026.9192031267,,Heart Disease,Diabetes,Asthma,Heart Disease
+76.11231012250468,F,other,hispanic,D,0.0,1247969.0409317573,Diabetes,Hyperlipidemia,Hypertension,Hypertension,Arthritis
+93.70778413334554,M,other,hispanic,W,1694733.7439022246,0.0,,Asthma,Arthritis,Asthma,Diabetes
+392.0815138150976,F,white,nonhispanic,M,0.0,45474.51644143993,,,COPD,Asthma,Anxiety
+61.947547886481885,M,black,hispanic,D,0.0,582024.0615223269,Anxiety,,Depression,Diabetes,Asthma
+111.441156447145,M,native,hispanic,W,0.0,0.0,Heart Disease,Hypertension,,Asthma,Arthritis
+231.8528272262758,M,native,nonhispanic,M,0.0,0.0,Heart Disease,Arthritis,Arthritis,Asthma,Hypertension
+0.0,M,asian,hispanic,D,248832.8382514145,267337.537698153,,COPD,Hypertension,Anxiety,Anxiety
+0.0,M,asian,nonhispanic,D,44099.54178944058,0.0,Anxiety,Hyperlipidemia,Depression,Hyperlipidemia,Heart Disease
+7.165024663969177,F,white,hispanic,S,1708011.4843653208,72862.74719530603,Diabetes,Hypertension,Heart Disease,COPD,Asthma
+69.55031538041685,M,other,hispanic,M,81934.11486019134,497859.7955251278,Diabetes,COPD,Hypertension,Obesity,Diabetes
+196.92370667757103,F,asian,hispanic,W,414713.6272791963,293531.65389074123,Anxiety,Depression,Anxiety,Anxiety,
+362.3759977908635,F,black,nonhispanic,M,1458267.3229118995,1008381.8300218557,Anxiety,,COPD,Asthma,Hypertension
+0.0,M,asian,hispanic,D,0.0,76105.83132387423,Depression,Heart Disease,Hypertension,Hyperlipidemia,Diabetes
+0.0,M,black,nonhispanic,D,0.0,654424.4088168403,Depression,Depression,Hypertension,Diabetes,Asthma
+0.0,F,white,nonhispanic,S,438361.4199354184,0.0,Arthritis,Obesity,Heart Disease,COPD,COPD
+5.934413479994959,M,hispanic,hispanic,W,362195.46945287683,0.0,Obesity,Asthma,Depression,Asthma,COPD
+68.99479843273147,F,black,hispanic,D,0.0,931048.6671088298,COPD,Obesity,Obesity,Arthritis,Obesity
+124.67140594524055,M,black,nonhispanic,W,630452.495039026,621352.5632736923,,Depression,Asthma,Hypertension,Diabetes
+0.0,M,white,hispanic,D,0.0,521587.700969899,,,Hypertension,Arthritis,Obesity
+219.3723772188655,M,asian,hispanic,M,550522.1325632891,497820.3087584935,Obesity,Obesity,Hyperlipidemia,Hypertension,
+437.52540442932604,M,other,hispanic,D,228319.1425350252,1505829.9560698636,Hypertension,,Arthritis,Hypertension,Depression
+66.25106822626447,M,native,hispanic,D,0.0,0.0,Hyperlipidemia,Diabetes,Arthritis,Arthritis,Obesity
+113.91990367767988,M,other,nonhispanic,D,173877.30469405692,60591.174209670884,COPD,Depression,Heart Disease,COPD,
+987.598203247693,F,asian,nonhispanic,S,0.0,114754.28105966907,Hyperlipidemia,Arthritis,Heart Disease,Asthma,Obesity
+64.54017399409716,F,black,hispanic,S,0.0,755909.5244289801,COPD,Arthritis,Arthritis,Obesity,Asthma
+622.6019668163524,M,hispanic,nonhispanic,D,1495426.0741741187,134391.1013614321,COPD,Heart Disease,Hypertension,Diabetes,Heart Disease
+760.316496963,M,white,nonhispanic,M,0.0,0.0,Depression,,COPD,Hypertension,COPD
+106.26553368996588,F,native,nonhispanic,W,0.0,342453.96577060944,,Diabetes,COPD,Asthma,COPD
+138.0037119261185,F,asian,hispanic,M,0.0,0.0,Diabetes,,Depression,Hyperlipidemia,COPD
+185.69528730519787,F,other,nonhispanic,M,190376.75502699905,0.0,Obesity,Depression,Hyperlipidemia,Hypertension,Heart Disease
+69.63036783679028,F,white,nonhispanic,W,764722.713386976,300031.8812916023,Obesity,,Asthma,Asthma,Asthma
+0.0,F,native,nonhispanic,D,0.0,1954256.0093906603,COPD,Depression,Heart Disease,Diabetes,Anxiety
+304.15738446517764,M,hispanic,nonhispanic,W,0.0,166803.24602028026,Diabetes,Depression,Obesity,Diabetes,COPD
+542.2037734770524,M,hispanic,hispanic,D,0.0,0.0,Arthritis,COPD,,Obesity,Diabetes
+0.0,M,asian,hispanic,W,0.0,378432.439427961,Hyperlipidemia,Heart Disease,Heart Disease,Hyperlipidemia,COPD
+0.0,M,other,nonhispanic,D,260348.46154835337,0.0,Heart Disease,Arthritis,Hyperlipidemia,Asthma,COPD
+475.025989431534,M,white,hispanic,D,553265.977003328,0.0,Obesity,Asthma,Arthritis,Diabetes,Obesity
+0.0,M,white,nonhispanic,D,0.0,0.0,COPD,Diabetes,Heart Disease,,
+221.2748860902022,F,native,nonhispanic,M,111885.17557889663,0.0,Arthritis,Hyperlipidemia,Heart Disease,Obesity,Hyperlipidemia
+0.0,F,hispanic,hispanic,D,101886.41830641888,204896.68784371912,Diabetes,Depression,Arthritis,,
+285.5599063383276,F,native,nonhispanic,W,80886.55009179431,372521.74055661715,Obesity,Hypertension,Arthritis,Depression,
+0.0,M,native,hispanic,M,0.0,166953.13144463976,COPD,Hyperlipidemia,Heart Disease,Diabetes,Diabetes
+0.0,M,asian,hispanic,W,343660.5409758031,862252.8722043487,Asthma,Hypertension,Hypertension,Arthritis,COPD
+31.16617573120285,M,white,nonhispanic,W,886175.241007544,0.0,Depression,Diabetes,COPD,Asthma,Hypertension
+0.0,M,asian,nonhispanic,M,826482.4080155041,1383791.9785695695,Diabetes,Obesity,Hypertension,COPD,Hyperlipidemia
+0.0,F,hispanic,nonhispanic,W,414528.8496906791,757261.2149282303,Asthma,Hypertension,Anxiety,Arthritis,Depression
+0.0,M,white,nonhispanic,W,0.0,450181.1112458851,Hyperlipidemia,Depression,Hypertension,Asthma,Hypertension
+124.38110956582602,M,asian,hispanic,D,0.0,21848.352458612928,Heart Disease,Asthma,Heart Disease,Asthma,Asthma
+127.26796457067934,M,black,hispanic,W,311882.7192066872,0.0,Arthritis,Obesity,Diabetes,Anxiety,Depression
+218.34435642212887,F,asian,nonhispanic,S,521370.51129203924,0.0,COPD,Hypertension,Obesity,Obesity,Arthritis
+476.86066319783015,M,white,nonhispanic,W,720105.0565504236,0.0,Anxiety,Obesity,Diabetes,Depression,Hyperlipidemia
+60.718034685699486,F,white,hispanic,D,0.0,423817.50725602044,Obesity,Heart Disease,Hypertension,COPD,Diabetes
+0.0,M,white,nonhispanic,D,365511.7718663498,0.0,Heart Disease,Hyperlipidemia,Heart Disease,COPD,Asthma
+377.0238055094662,M,asian,hispanic,D,1078405.2734713713,0.0,Hyperlipidemia,Heart Disease,Heart Disease,Anxiety,COPD
+194.40684682883452,M,asian,nonhispanic,S,435857.78775504354,309563.0128392045,Asthma,Arthritis,Heart Disease,Anxiety,COPD
+0.0,F,native,hispanic,D,422767.3510845712,280694.53803218383,Arthritis,COPD,Arthritis,Obesity,Depression
+0.0,M,black,hispanic,M,0.0,538123.8722005633,Hyperlipidemia,Diabetes,Arthritis,Hyperlipidemia,
+168.05971127026726,M,asian,nonhispanic,D,35197.38344578342,0.0,Diabetes,Depression,Anxiety,Obesity,Asthma
+0.0,M,white,nonhispanic,D,354321.0107548417,0.0,Diabetes,Asthma,Arthritis,Heart Disease,
+701.1496161234512,F,native,nonhispanic,W,0.0,169883.34399386297,Heart Disease,Anxiety,,COPD,Hyperlipidemia
+0.0,M,white,nonhispanic,D,24817.357529832138,0.0,Depression,Depression,Depression,COPD,Arthritis
+321.14448474721854,F,other,nonhispanic,S,746387.5945409811,192220.63083042053,Anxiety,Obesity,Depression,Hypertension,COPD
+26.54733185747602,F,asian,hispanic,D,256164.47570685286,0.0,Obesity,Diabetes,Hyperlipidemia,Asthma,Asthma
+0.0,M,black,nonhispanic,D,221692.24112497116,389950.500950518,Arthritis,COPD,Anxiety,Diabetes,Diabetes
+212.4097930068237,F,native,nonhispanic,W,385736.0091206747,696824.2167673571,Hyperlipidemia,Anxiety,Obesity,Asthma,COPD
+101.05904510326022,M,white,hispanic,M,0.0,0.0,Hyperlipidemia,Asthma,,Hypertension,Diabetes
+0.0,M,asian,hispanic,S,0.0,544131.7913007156,Obesity,Asthma,Depression,Asthma,Obesity
+163.63158907555746,M,other,nonhispanic,M,287762.3275932242,260086.880142713,Diabetes,Arthritis,Arthritis,Diabetes,COPD
+90.60769689878089,F,native,hispanic,M,0.0,71886.72262118898,Asthma,Anxiety,COPD,Heart Disease,Hyperlipidemia
+315.3028007777693,F,white,nonhispanic,W,122153.00520037781,32689.92534530378,Asthma,Diabetes,Hypertension,COPD,COPD
+0.0,M,white,nonhispanic,D,188638.46327536568,47829.48887953602,Obesity,Hypertension,Asthma,Diabetes,Arthritis
+186.8043728143428,M,white,nonhispanic,D,536066.3681969147,0.0,Depression,Depression,Depression,Depression,Hypertension
+1458.3271052791185,M,black,nonhispanic,S,0.0,0.0,Diabetes,Diabetes,Asthma,Depression,Asthma
+589.8372443403339,M,asian,hispanic,W,0.0,532528.4860654947,Arthritis,Depression,Obesity,Heart Disease,Hypertension
+1102.2330476137429,F,asian,nonhispanic,M,98522.84771442594,8490.027129257942,Heart Disease,,Obesity,,Heart Disease
+210.27740714241682,F,black,hispanic,D,554000.4491910839,125757.65480850471,Depression,COPD,Obesity,Hypertension,COPD
+0.0,M,asian,nonhispanic,W,23857.489225072175,0.0,Anxiety,Diabetes,Heart Disease,Obesity,Diabetes
+858.941184728945,M,white,nonhispanic,D,0.0,401739.52540199755,,Asthma,Hypertension,Diabetes,COPD
+0.0,M,white,hispanic,W,209063.2582995469,295248.8439513008,Obesity,,Heart Disease,,Arthritis
+58.47020564185611,M,native,hispanic,W,0.0,764380.7641731097,Anxiety,Arthritis,Hyperlipidemia,Arthritis,COPD
+370.85988553114237,M,asian,hispanic,M,144430.08188859094,400037.7042256792,Depression,Anxiety,,Asthma,Hypertension
+0.0,M,white,hispanic,W,157660.89713041144,107811.04021019366,Anxiety,Arthritis,COPD,COPD,Anxiety
+86.74298132850413,M,native,nonhispanic,M,569847.4488094402,281700.348151311,Heart Disease,,Diabetes,Heart Disease,Diabetes
+0.0,M,black,nonhispanic,D,486051.81283496204,960164.4208577974,Depression,Anxiety,COPD,Anxiety,COPD
+206.3928195123777,M,black,nonhispanic,D,364451.5267738138,0.0,Arthritis,Depression,Heart Disease,Anxiety,Heart Disease
+0.0,M,asian,nonhispanic,D,221547.956208153,315048.57109790883,Asthma,Arthritis,Hyperlipidemia,Hypertension,Depression
+14.510225476443274,F,native,hispanic,W,542163.9484258342,0.0,,Arthritis,Asthma,Heart Disease,Obesity
+0.0,M,asian,nonhispanic,M,108531.87835004019,651415.6030445951,Asthma,Diabetes,Heart Disease,Diabetes,COPD
+73.09367958930285,M,asian,nonhispanic,S,527098.9539583612,731600.5167084533,Diabetes,,Arthritis,Diabetes,Depression
+224.23106229849785,F,other,hispanic,S,51695.1447838718,0.0,Anxiety,Hypertension,Depression,Diabetes,Hyperlipidemia
+853.8380902729928,F,hispanic,hispanic,D,2048426.2312434814,542060.3906888498,Obesity,Heart Disease,Anxiety,Depression,Anxiety
+56.50064497901792,M,asian,hispanic,S,0.0,0.0,Arthritis,Depression,Anxiety,COPD,Heart Disease
+0.0,F,native,hispanic,D,0.0,0.0,Anxiety,Depression,Depression,Asthma,Anxiety
+0.0,M,asian,hispanic,S,18309.184733865084,546021.2181345428,Anxiety,Arthritis,Diabetes,Diabetes,Hyperlipidemia
+245.5302674572316,M,other,hispanic,W,1351270.2256536726,0.0,Heart Disease,Hyperlipidemia,Hypertension,Diabetes,Depression
+131.4239247676441,F,asian,hispanic,W,0.0,137781.44624111857,Arthritis,Hypertension,Obesity,COPD,Heart Disease
+0.0,F,other,nonhispanic,W,0.0,0.0,Anxiety,,COPD,Hyperlipidemia,Hypertension
+1157.3600911658896,M,native,nonhispanic,M,256322.51963683096,0.0,Hypertension,COPD,Hyperlipidemia,Obesity,Diabetes
+131.7286587169549,F,hispanic,nonhispanic,D,124028.34067234967,0.0,Anxiety,,Depression,Hyperlipidemia,Asthma
+105.22089679309836,F,hispanic,nonhispanic,M,0.0,1478211.7757519416,Depression,Obesity,Asthma,Hypertension,Heart Disease
+508.3600588724223,M,white,nonhispanic,W,0.0,0.0,COPD,Hyperlipidemia,Hyperlipidemia,Hypertension,Anxiety
+666.6713804179541,M,white,nonhispanic,W,51639.22751754176,176215.3403948879,Heart Disease,Arthritis,,Asthma,Obesity
+153.28102034383966,M,asian,hispanic,S,955299.5188662877,105153.61608291691,Obesity,Hyperlipidemia,Depression,Diabetes,Arthritis
+574.8548033021777,F,asian,nonhispanic,M,2059727.60701042,186718.4720044756,Arthritis,Depression,Heart Disease,Asthma,COPD
+206.15880793485022,M,asian,hispanic,S,315647.7714126172,0.0,Hyperlipidemia,,Hypertension,Arthritis,Arthritis
+94.00087042373333,F,other,nonhispanic,S,250566.69752860809,204889.26300880496,Hyperlipidemia,Heart Disease,COPD,Diabetes,Asthma
+0.0,F,white,hispanic,D,0.0,65080.3389700915,Depression,COPD,Arthritis,Obesity,Heart Disease
+0.0,F,asian,nonhispanic,S,417283.0376757323,254113.12215922083,Asthma,,Heart Disease,COPD,COPD
+81.29145138503824,M,hispanic,nonhispanic,W,0.0,624290.3576459277,Diabetes,Asthma,Heart Disease,Hypertension,Arthritis
+0.0,F,hispanic,nonhispanic,W,0.0,41751.08988293292,Diabetes,,Heart Disease,Asthma,COPD
+331.7572628599735,F,white,nonhispanic,D,574039.0271854725,178407.47723112907,Depression,Asthma,COPD,,Anxiety
+33.000933115035295,M,hispanic,nonhispanic,W,489661.36192727124,37380.16564678581,Anxiety,Depression,Depression,Hypertension,Asthma
+0.0,M,asian,nonhispanic,M,9447.5985083267,110300.58404089976,Asthma,Arthritis,Arthritis,Obesity,Arthritis
+0.0,F,native,nonhispanic,W,148448.89847188728,1285170.4653387112,Obesity,COPD,Depression,Diabetes,
+433.203773784153,M,white,hispanic,D,163968.0408105447,188526.68995321036,Obesity,COPD,Anxiety,Hyperlipidemia,
+821.178943984171,M,black,hispanic,W,0.0,24321.661858770192,Hypertension,Heart Disease,Heart Disease,Asthma,COPD
+0.0,M,hispanic,nonhispanic,D,18469.271503716926,146158.41572763067,Arthritis,Heart Disease,Obesity,Arthritis,Arthritis
+0.0,F,hispanic,nonhispanic,W,0.0,794146.9632212657,Asthma,Obesity,,Hypertension,COPD
+0.0,M,black,hispanic,S,0.0,0.0,Depression,,Arthritis,COPD,COPD
+0.0,F,asian,nonhispanic,D,0.0,96522.30953298793,Hyperlipidemia,Diabetes,Diabetes,Asthma,
+0.0,M,asian,nonhispanic,M,158999.3987656851,0.0,Arthritis,Hyperlipidemia,Heart Disease,Heart Disease,Heart Disease
+51.598006391114964,M,black,nonhispanic,D,0.0,462175.48137308285,Anxiety,Hyperlipidemia,Depression,Hyperlipidemia,COPD
+0.0,M,black,hispanic,W,0.0,572997.5764397047,Asthma,,Depression,COPD,Hypertension
+706.9424896187334,F,asian,hispanic,S,135900.15822433782,0.0,Diabetes,Hypertension,Anxiety,Arthritis,Arthritis
+0.0,M,asian,hispanic,D,1544201.1471049413,392565.9220842159,Heart Disease,,Arthritis,Asthma,COPD
+45.66031363301527,M,hispanic,nonhispanic,D,0.0,0.0,Obesity,Obesity,Hyperlipidemia,COPD,
+183.74938002159283,M,asian,hispanic,M,0.0,0.0,Heart Disease,Hypertension,Hypertension,Hyperlipidemia,Depression
+78.97240198815729,M,white,hispanic,S,84695.42665268571,640045.8805079827,Depression,Asthma,COPD,Arthritis,COPD
+139.6511295427374,M,asian,nonhispanic,S,0.0,0.0,,Diabetes,Heart Disease,Obesity,COPD
+24.65416631631484,F,hispanic,hispanic,D,0.0,198380.43553953554,Hyperlipidemia,Heart Disease,COPD,COPD,Heart Disease
+130.49040151871364,M,hispanic,hispanic,W,576726.449860141,92668.94551904759,Obesity,Asthma,Heart Disease,Obesity,COPD
+0.0,M,other,nonhispanic,M,404007.86772151344,0.0,Asthma,,Diabetes,Heart Disease,Obesity
+0.0,F,other,hispanic,W,240012.00221915985,0.0,Hypertension,COPD,Arthritis,Heart Disease,Anxiety
+315.75007608863274,M,other,nonhispanic,W,0.0,0.0,Depression,Arthritis,,Anxiety,Asthma
+274.51759243128174,M,white,nonhispanic,D,462798.81825401366,1189989.8353946141,Depression,,Heart Disease,Anxiety,Arthritis
+621.7304597386375,F,other,nonhispanic,M,275840.1350468907,0.0,Hypertension,COPD,Anxiety,Asthma,Heart Disease
+0.0,F,asian,nonhispanic,W,198122.5301222704,53980.33840099801,Obesity,Depression,Asthma,Hyperlipidemia,Hypertension
+0.0,M,other,hispanic,W,349987.7517960275,0.0,Diabetes,Obesity,Anxiety,Hypertension,Hypertension
+237.67390786423903,F,hispanic,hispanic,D,687538.2729739033,0.0,Obesity,Hyperlipidemia,,Obesity,Obesity
+0.0,M,asian,hispanic,W,0.0,0.0,Hyperlipidemia,Arthritis,Anxiety,Hyperlipidemia,Asthma
+135.17775707755192,M,asian,hispanic,D,0.0,0.0,Depression,Arthritis,Diabetes,Diabetes,Asthma
+37.00589286579928,M,native,nonhispanic,W,440062.7980793164,0.0,Heart Disease,,Obesity,Hypertension,Depression
+186.39534181896883,F,asian,nonhispanic,M,101862.01211958121,1586393.6403463178,Anxiety,COPD,Heart Disease,COPD,COPD
+0.0,M,white,nonhispanic,W,92914.50880187006,143164.95398379292,Arthritis,,Depression,,Obesity
+472.6198706338922,M,black,hispanic,D,138951.24221378422,367730.4033827121,Asthma,Depression,Anxiety,Anxiety,COPD
+650.667632106371,M,native,nonhispanic,D,553991.7046116856,422427.491703619,Heart Disease,Anxiety,COPD,Heart Disease,Obesity
+0.0,F,black,hispanic,S,643524.1438637876,383247.27493375586,Depression,,,,Anxiety
+216.76301116605444,M,asian,hispanic,M,0.0,45585.94458164431,,Depression,Obesity,Obesity,COPD
+0.0,F,hispanic,nonhispanic,M,218228.06269614145,0.0,Depression,Diabetes,Obesity,Heart Disease,Diabetes
+103.01961966735746,M,other,hispanic,M,0.0,783523.1653547424,COPD,,Anxiety,Hypertension,
+0.0,F,white,hispanic,W,247210.34007635838,0.0,Anxiety,Anxiety,Obesity,Asthma,COPD
+454.3587417563948,M,native,hispanic,D,44652.965293461886,208581.7962786431,Anxiety,Heart Disease,Anxiety,Heart Disease,Arthritis
+317.5725953475058,M,asian,nonhispanic,W,0.0,431934.8685847528,Hyperlipidemia,COPD,Arthritis,Heart Disease,Hypertension
+0.0,M,hispanic,nonhispanic,D,588512.0431514349,273507.38354202505,Obesity,Arthritis,Hyperlipidemia,Anxiety,Asthma
+624.6149430154157,M,black,nonhispanic,S,0.0,65747.61621148707,Heart Disease,Hypertension,Hypertension,Diabetes,Heart Disease
+0.0,M,white,nonhispanic,W,512139.18274852424,0.0,Diabetes,Depression,COPD,Asthma,Asthma
+351.4133036744679,M,asian,hispanic,W,21571.862182022916,104062.54740342523,Arthritis,Obesity,Heart Disease,,Arthritis
+0.0,M,black,hispanic,W,4995.1705636947445,450813.5911734848,Arthritis,Anxiety,COPD,Depression,Hypertension
+24.24368392330507,M,asian,hispanic,D,798101.2289563208,1170930.1900852497,Diabetes,Depression,Heart Disease,Diabetes,Hypertension
+8.910292386416568,M,black,nonhispanic,S,0.0,1076402.8953937993,Arthritis,Asthma,Asthma,COPD,Obesity
+0.0,F,black,hispanic,W,332998.3881203837,0.0,Hyperlipidemia,,COPD,Anxiety,Asthma
+0.0,M,asian,nonhispanic,D,0.0,304433.27642339346,COPD,Heart Disease,Arthritis,COPD,Hyperlipidemia
+0.0,F,hispanic,nonhispanic,W,0.0,1269296.528328826,COPD,Diabetes,Heart Disease,Depression,Hyperlipidemia
+0.0,F,black,hispanic,W,0.0,181477.57846771978,,Heart Disease,Anxiety,Heart Disease,Depression
+196.6825220221205,M,asian,nonhispanic,W,0.0,0.0,Anxiety,Asthma,Arthritis,COPD,Hypertension
+0.0,M,other,hispanic,M,120486.15755208817,23494.881696377397,Heart Disease,Asthma,Asthma,,Anxiety
+84.54007908883148,M,white,nonhispanic,M,102005.14572607592,201925.70701146603,Hypertension,Arthritis,Hypertension,COPD,
+0.0,F,hispanic,hispanic,D,0.0,357674.35676882614,Hyperlipidemia,Asthma,Heart Disease,Hypertension,Hypertension
+0.0,M,black,nonhispanic,W,0.0,0.0,Heart Disease,Hypertension,Arthritis,Heart Disease,Arthritis
+162.40505224745726,F,asian,hispanic,W,303418.7799172816,0.0,Hypertension,Hyperlipidemia,Anxiety,COPD,Diabetes
+77.16858134537507,F,hispanic,nonhispanic,D,93698.21302465815,0.0,Asthma,,Anxiety,Asthma,
+298.36306570697604,M,native,hispanic,D,564647.8146402206,392159.4168409177,Arthritis,Diabetes,Hypertension,Anxiety,
+303.99701133139894,F,white,hispanic,W,0.0,0.0,Diabetes,Asthma,Asthma,Hyperlipidemia,Depression
+0.0,F,white,nonhispanic,W,279270.65722540545,0.0,Asthma,,Obesity,Heart Disease,Asthma
+187.45843238081886,M,black,nonhispanic,S,1604214.8236230975,0.0,Anxiety,,COPD,Obesity,Arthritis
+1096.2815030801464,M,hispanic,hispanic,D,801767.3195354998,736609.4117210688,Heart Disease,Anxiety,Diabetes,Hypertension,Hyperlipidemia
+0.0,F,black,hispanic,W,107467.91874212182,840206.2733327283,COPD,Hypertension,Hypertension,Obesity,Depression
+0.0,F,white,hispanic,W,36890.83933558743,344764.1929391448,Obesity,Heart Disease,COPD,Arthritis,Diabetes
+206.27224866559996,M,black,hispanic,D,0.0,388895.3124786787,Anxiety,Heart Disease,Asthma,Hyperlipidemia,Hyperlipidemia
+0.0,F,hispanic,hispanic,W,210861.66506590263,138803.92844217567,Hyperlipidemia,Asthma,,Hypertension,Arthritis
+272.40466250232487,M,hispanic,nonhispanic,D,0.0,0.0,COPD,Obesity,Hypertension,,COPD
+0.0,M,asian,nonhispanic,M,1227227.0707584997,2819.3445534161347,Hypertension,,Depression,Hypertension,Obesity
+185.3784131291904,M,asian,hispanic,D,213101.85092908615,0.0,Depression,Obesity,,Hyperlipidemia,Diabetes
+0.0,M,asian,nonhispanic,W,61859.304530743815,0.0,Heart Disease,Asthma,,Obesity,Hyperlipidemia
+0.0,M,native,hispanic,D,652777.3523892614,0.0,Arthritis,,Obesity,,Arthritis
+0.0,F,hispanic,nonhispanic,W,278707.57922564005,0.0,Obesity,Diabetes,Depression,,Diabetes
+189.27949470938864,F,hispanic,nonhispanic,M,0.0,0.0,COPD,,COPD,Arthritis,Asthma
+0.0,M,hispanic,hispanic,M,465931.0835604938,0.0,,,Asthma,Hyperlipidemia,Depression
+320.10934389780755,M,white,hispanic,W,416233.5393325662,282144.0870997157,Arthritis,Heart Disease,Asthma,Hypertension,Hyperlipidemia
+0.0,M,other,nonhispanic,S,0.0,0.0,Depression,Hyperlipidemia,Obesity,Diabetes,Diabetes
+0.0,F,asian,nonhispanic,D,0.0,101382.03221962124,Asthma,Obesity,Hypertension,Anxiety,Hyperlipidemia
+0.0,F,hispanic,hispanic,W,228362.51144624362,75049.87664755333,Obesity,,Hypertension,Heart Disease,Anxiety
+292.5297632829081,M,native,nonhispanic,S,204136.0027897904,140497.36827208745,Diabetes,Arthritis,Hypertension,COPD,Asthma
+294.07911897827836,M,hispanic,hispanic,D,0.0,129945.10841310269,Anxiety,Hyperlipidemia,Hyperlipidemia,Asthma,COPD
+689.7373704286318,M,white,nonhispanic,W,119015.12938417307,209140.02893421816,Asthma,Diabetes,,COPD,COPD
+0.0,M,native,hispanic,D,0.0,406042.77546558256,Depression,Arthritis,Anxiety,Hypertension,Heart Disease
+243.30804563493663,M,native,nonhispanic,W,1580532.542804206,0.0,Anxiety,Hyperlipidemia,Hyperlipidemia,Hypertension,Hypertension
+273.7942029606467,M,black,hispanic,D,475359.7044397036,0.0,,Depression,Hyperlipidemia,Diabetes,
+0.0,M,black,hispanic,W,339281.11496673024,0.0,Obesity,Hypertension,,Asthma,Asthma
+1319.7724737084527,M,white,hispanic,D,0.0,0.0,Depression,Asthma,COPD,Hypertension,Hypertension
+35.51096493988476,F,white,nonhispanic,W,588613.8196194291,0.0,Arthritis,Diabetes,Hyperlipidemia,Arthritis,Diabetes
+245.49835151495486,M,black,hispanic,S,551237.7530968536,0.0,Obesity,Arthritis,Depression,Arthritis,Diabetes
+0.0,M,asian,nonhispanic,S,126676.93036005058,134883.55676941777,,COPD,Asthma,COPD,Obesity
+172.26222675210857,M,asian,nonhispanic,D,0.0,0.0,COPD,Obesity,Heart Disease,Asthma,Asthma
+308.42808327039216,M,native,hispanic,D,0.0,0.0,Depression,Arthritis,Anxiety,Arthritis,Heart Disease
+776.1221854956445,F,white,nonhispanic,M,64713.6545075013,0.0,Hypertension,,Hyperlipidemia,COPD,Arthritis
+103.91794380264494,M,white,nonhispanic,D,434732.0927599907,367618.7156452632,Depression,Asthma,Diabetes,Heart Disease,Anxiety
+0.0,F,black,nonhispanic,D,133642.4703450598,0.0,Depression,Hyperlipidemia,Hyperlipidemia,Asthma,COPD
+66.64909207440408,M,asian,nonhispanic,D,0.0,303765.97420968977,,Asthma,Heart Disease,Anxiety,Asthma
+0.0,M,asian,hispanic,D,104703.12072917726,216922.6243663482,Depression,Hyperlipidemia,Arthritis,,Hyperlipidemia
+0.0,M,white,hispanic,W,738253.2128687393,0.0,COPD,,COPD,COPD,Hyperlipidemia
+0.0,M,white,hispanic,D,1158229.2448921823,56315.739094890334,Depression,Diabetes,Anxiety,Asthma,Arthritis
+258.5344346242696,M,hispanic,nonhispanic,D,249366.96712368092,0.0,COPD,Diabetes,Diabetes,Hypertension,Arthritis
+0.0,F,asian,hispanic,M,719284.9707649766,0.0,Depression,Hypertension,Heart Disease,Hyperlipidemia,Hypertension
+402.77697147292196,F,asian,nonhispanic,W,379552.7152749747,0.0,Asthma,Heart Disease,Heart Disease,Asthma,
+212.4598423044837,M,white,nonhispanic,M,823467.746235799,300762.97941853886,Hyperlipidemia,Depression,COPD,Depression,Asthma
+168.11897217079118,F,other,nonhispanic,D,347788.57765565795,111133.95779743785,Anxiety,Anxiety,COPD,Hyperlipidemia,
+17.99430109389895,M,white,hispanic,D,0.0,128767.39540042696,Asthma,Obesity,Diabetes,,Diabetes
+0.0,F,white,nonhispanic,M,43468.69682100287,171038.12362684356,Anxiety,Heart Disease,Arthritis,Arthritis,
+945.1224145828866,F,native,nonhispanic,D,130009.45960873118,460605.5934588442,Depression,Hyperlipidemia,Hypertension,Arthritis,Obesity
+409.45823516563684,M,native,hispanic,D,218906.3439248606,0.0,Anxiety,Hyperlipidemia,Heart Disease,Asthma,Asthma
+182.75471231511654,M,other,hispanic,M,85858.50847206794,106594.84894201245,Heart Disease,Anxiety,Depression,Hypertension,Depression
+0.0,M,asian,nonhispanic,W,602737.833046909,187700.95973604204,Heart Disease,COPD,Obesity,Obesity,Asthma
+8.371615699684714,M,asian,nonhispanic,W,30909.49571523095,0.0,,Diabetes,Arthritis,Hypertension,Hyperlipidemia
+181.81270951559674,M,black,hispanic,S,0.0,409467.6539698043,Hyperlipidemia,Obesity,COPD,Hypertension,Hypertension
+366.79520197899683,F,black,nonhispanic,W,1821319.6030292418,317011.21819348703,Arthritis,Hypertension,COPD,Depression,Obesity
+138.7989720375732,F,hispanic,hispanic,D,0.0,77627.48011816424,Heart Disease,Depression,COPD,Diabetes,COPD
+158.30617873240436,M,other,nonhispanic,D,0.0,416703.6910468618,COPD,Depression,Asthma,Obesity,Heart Disease
+0.0,F,asian,hispanic,M,0.0,0.0,Anxiety,Anxiety,Heart Disease,COPD,COPD
+463.12182854856786,M,other,hispanic,W,0.0,68951.95070591432,,Obesity,Asthma,Asthma,Depression
+144.32750651084226,F,hispanic,hispanic,W,0.0,203407.5820906011,Arthritis,Hyperlipidemia,Asthma,Depression,Hypertension
+350.8303382709841,F,white,nonhispanic,S,0.0,0.0,Diabetes,Depression,COPD,COPD,COPD
+137.06476966869783,M,hispanic,nonhispanic,D,270463.8874238365,0.0,Hyperlipidemia,Asthma,Obesity,COPD,COPD
+101.5845645537012,F,other,hispanic,S,826417.0607704787,74282.45364258083,Depression,Diabetes,COPD,Arthritis,COPD
+218.54159651962303,M,native,nonhispanic,D,0.0,124705.24142748874,Hyperlipidemia,Asthma,Anxiety,Hyperlipidemia,Depression
+0.0,F,black,hispanic,D,0.0,0.0,Asthma,Heart Disease,COPD,Hyperlipidemia,Diabetes
+0.0,F,asian,nonhispanic,M,653576.8879361079,771495.8243668793,Diabetes,,Obesity,COPD,COPD
+350.389163217153,F,other,nonhispanic,S,306443.3833592809,0.0,COPD,Asthma,Anxiety,Heart Disease,Hyperlipidemia
+142.74644628943156,M,black,nonhispanic,W,1031338.9988613543,46000.65948944617,Heart Disease,Hyperlipidemia,Diabetes,COPD,COPD
+643.4719439733504,M,hispanic,nonhispanic,D,2287352.965617656,0.0,Hypertension,COPD,Heart Disease,COPD,COPD
+442.86338170406304,F,black,nonhispanic,S,0.0,575728.8409998837,Obesity,Asthma,Obesity,Depression,Obesity
+79.25639553925082,F,native,nonhispanic,W,183936.8636633046,0.0,,Obesity,Obesity,Obesity,Diabetes
+252.80607159235507,M,black,nonhispanic,W,90969.4839614717,0.0,Hypertension,Obesity,Diabetes,Heart Disease,Diabetes
+114.68937872515681,M,hispanic,nonhispanic,W,477642.9539777353,169119.4324430241,Heart Disease,Obesity,,Asthma,COPD
+406.8802098944173,M,native,hispanic,S,244853.757204848,970824.8169037427,Anxiety,Hypertension,Heart Disease,Diabetes,Hypertension
+289.3179696070875,M,black,hispanic,W,113434.30983918699,0.0,Hyperlipidemia,,Heart Disease,Asthma,Arthritis
+54.01578071933598,F,other,hispanic,W,0.0,165866.35960858976,Anxiety,COPD,Hypertension,Arthritis,Arthritis
+0.0,M,asian,nonhispanic,M,408907.08253155986,30879.468522834533,Obesity,Asthma,Anxiety,Heart Disease,Obesity
+0.0,F,white,hispanic,D,403380.83285828645,318067.16852279176,Asthma,Heart Disease,Hypertension,Diabetes,Asthma
+376.77036795551606,F,asian,nonhispanic,D,0.0,198232.93075170042,Asthma,Diabetes,Asthma,Hypertension,Depression
+251.9626458509811,M,hispanic,nonhispanic,D,241441.69542217383,0.0,COPD,Obesity,Heart Disease,COPD,Diabetes
+104.57271488895435,M,white,nonhispanic,M,306036.8240452418,0.0,Anxiety,Heart Disease,Anxiety,Asthma,Hypertension
+0.0,F,asian,nonhispanic,D,0.0,0.0,COPD,Diabetes,Arthritis,,Arthritis
+0.0,F,asian,hispanic,D,716111.1971890137,0.0,Heart Disease,Asthma,Hyperlipidemia,,Arthritis
+0.0,M,asian,nonhispanic,D,224967.47489560605,0.0,Hyperlipidemia,Arthritis,Depression,Heart Disease,Asthma
+0.0,M,hispanic,nonhispanic,D,593262.6603422004,198043.44995599648,Asthma,Hyperlipidemia,Obesity,Heart Disease,Hyperlipidemia
+110.2689432417196,M,asian,nonhispanic,W,0.0,326779.171978169,COPD,Arthritis,Arthritis,COPD,Hyperlipidemia
+260.26478983804043,F,asian,hispanic,D,278851.15267269686,503987.0989545598,Hyperlipidemia,,Hypertension,Anxiety,COPD
+0.0,M,other,hispanic,D,364651.18046399346,0.0,COPD,Hyperlipidemia,Depression,Diabetes,Heart Disease
+1.980771368048039,M,white,hispanic,W,0.0,345868.8437296807,Asthma,Anxiety,Anxiety,Arthritis,
+20.588874577672854,M,black,hispanic,D,110231.17274395449,274479.5791828756,,Hypertension,Arthritis,Depression,Hypertension
+569.38597146885,M,white,hispanic,D,317573.29550334945,0.0,Hypertension,Asthma,Heart Disease,Hyperlipidemia,Obesity
+0.0,M,asian,hispanic,W,8253.232371051767,0.0,Heart Disease,,Anxiety,COPD,Asthma
+0.0,M,black,nonhispanic,S,545057.3407816102,0.0,Arthritis,Hyperlipidemia,COPD,Heart Disease,Asthma
+76.50547041892067,F,asian,nonhispanic,S,252000.25997558172,47655.59455073961,Heart Disease,Hypertension,Hypertension,Depression,Hyperlipidemia
+0.0,M,white,hispanic,D,496354.00659382634,1265545.5226471392,COPD,Diabetes,Diabetes,Hypertension,Obesity
+0.0,M,asian,nonhispanic,S,0.0,0.0,Depression,Diabetes,Heart Disease,Heart Disease,Asthma
+156.19758509121587,M,other,hispanic,D,1681944.7818253553,311972.7439759306,Depression,Hyperlipidemia,Obesity,COPD,Anxiety
+0.0,M,asian,hispanic,D,181364.55431657124,2512361.5633770693,Anxiety,Asthma,COPD,Heart Disease,Asthma
+119.08319651523038,M,asian,nonhispanic,S,206425.71249232258,875111.3023064665,Depression,Depression,Heart Disease,Obesity,Hypertension
+0.0,M,white,nonhispanic,W,0.0,0.0,Diabetes,,Arthritis,Depression,COPD
+821.6621986721693,M,asian,nonhispanic,D,44913.718700318816,645584.4848003822,Hyperlipidemia,Depression,Hyperlipidemia,Asthma,Diabetes
+50.64754707579662,M,other,hispanic,S,1222524.0374631989,0.0,COPD,Arthritis,,COPD,Depression
+0.0,M,white,nonhispanic,D,0.0,0.0,Anxiety,Arthritis,Obesity,Asthma,Hyperlipidemia
+0.0,M,black,nonhispanic,D,386346.37160869903,0.0,Arthritis,Obesity,Anxiety,Asthma,Diabetes
+140.68256321827278,M,white,nonhispanic,D,4768.284368406181,814627.3433106294,Anxiety,Hyperlipidemia,Heart Disease,Anxiety,Asthma
+63.58410904996039,M,black,nonhispanic,M,270665.7950948725,0.0,Arthritis,Diabetes,Obesity,,Depression
+2.9445035406811115,M,black,hispanic,W,240143.40690669094,41516.6227660662,Arthritis,,Anxiety,Hypertension,Depression
+0.0,M,hispanic,nonhispanic,M,0.0,0.0,Diabetes,Heart Disease,Hypertension,Heart Disease,COPD
+164.29741788855247,M,asian,nonhispanic,D,258017.59997723158,22810.604104776092,,Heart Disease,Arthritis,Depression,Depression
+0.0,M,black,hispanic,W,0.0,163492.5637178909,Heart Disease,Anxiety,COPD,Diabetes,Asthma
+0.0,M,hispanic,nonhispanic,D,1148295.0503631234,0.0,Diabetes,Anxiety,Asthma,Asthma,Diabetes
+0.0,M,native,hispanic,M,1820.938621713416,0.0,Arthritis,Obesity,Anxiety,COPD,Heart Disease
+0.0,F,native,hispanic,S,500823.71261890087,753833.1955029999,COPD,COPD,Depression,Heart Disease,Hypertension
+223.66330581247516,F,black,hispanic,M,0.0,0.0,Depression,,COPD,Asthma,Hypertension
+368.6096742259005,M,white,nonhispanic,M,277338.6478401555,0.0,Hypertension,Obesity,Hypertension,,COPD
+0.0,M,white,nonhispanic,M,834543.6680300107,0.0,Depression,Depression,,,Hyperlipidemia
+0.0,M,other,hispanic,S,0.0,584683.7395428902,Depression,,Arthritis,,Depression
+0.0,M,asian,nonhispanic,D,394002.7782483406,0.0,Hypertension,Heart Disease,Heart Disease,Asthma,Hyperlipidemia
+141.2972823167634,M,native,hispanic,D,0.0,0.0,Arthritis,Diabetes,Arthritis,Anxiety,
+13.57961893978171,M,hispanic,nonhispanic,D,114933.46456060643,168418.15920617525,Depression,Asthma,Asthma,Anxiety,Hypertension
+0.0,M,hispanic,hispanic,S,396185.7849118017,194850.00151374395,Heart Disease,Anxiety,Hypertension,Hypertension,
+0.0,F,hispanic,nonhispanic,M,473308.83886556485,530992.8767409514,Diabetes,Arthritis,Hypertension,Asthma,Hypertension
+661.7041254336842,M,hispanic,nonhispanic,W,0.0,366726.5231432976,Obesity,Asthma,Asthma,Heart Disease,Obesity
+358.27074212476373,M,black,nonhispanic,D,273712.22193955275,0.0,Heart Disease,Anxiety,COPD,Hyperlipidemia,COPD
+572.3095173331917,M,asian,nonhispanic,W,0.0,0.0,Depression,Obesity,,Heart Disease,Arthritis
+281.9657252111358,F,black,nonhispanic,D,261642.23070338235,330717.8277249113,COPD,Hypertension,Diabetes,Depression,Arthritis
+279.26492243150403,M,hispanic,nonhispanic,D,231393.0072197719,0.0,Arthritis,Asthma,COPD,,COPD
+0.0,F,asian,nonhispanic,S,134542.07971175955,0.0,,Hyperlipidemia,COPD,Hypertension,Asthma
+152.18687313409924,F,asian,hispanic,W,0.0,0.0,Diabetes,Hypertension,COPD,Anxiety,Depression
+131.2272726637614,F,black,nonhispanic,S,460404.83900514804,882135.5676644177,COPD,Obesity,Hyperlipidemia,Hyperlipidemia,Hypertension
+0.0,M,black,hispanic,S,0.0,401229.3693990148,Depression,COPD,Hyperlipidemia,Anxiety,Diabetes
+50.21723584992644,M,white,hispanic,S,0.0,0.0,Anxiety,Obesity,Heart Disease,Hypertension,Hyperlipidemia
+0.0,M,other,nonhispanic,M,42721.882347356535,72807.6873393302,COPD,Depression,Asthma,Hyperlipidemia,Depression
+0.0,M,asian,nonhispanic,D,324775.2641959344,0.0,Depression,COPD,Asthma,Heart Disease,Depression
+547.0860300708259,M,black,nonhispanic,W,354429.9450838434,0.0,Arthritis,Heart Disease,Arthritis,Obesity,Obesity
+0.0,M,black,hispanic,M,207166.8819383888,0.0,COPD,Asthma,Hypertension,Diabetes,
+0.0,M,white,hispanic,W,151817.25396784564,0.0,COPD,Heart Disease,Obesity,Heart Disease,Hypertension
+144.88508344195694,M,black,hispanic,M,821782.4690756049,308299.36657754716,Anxiety,Obesity,Hypertension,Diabetes,Diabetes
+0.0,F,white,hispanic,S,0.0,518263.59552783036,Hyperlipidemia,,Heart Disease,Hypertension,Heart Disease
+0.0,M,asian,hispanic,D,659347.4324801234,865181.8050304546,Anxiety,Arthritis,Hyperlipidemia,Arthritis,Heart Disease
+219.21426673937844,M,hispanic,nonhispanic,D,0.0,857287.6877484333,COPD,Arthritis,Heart Disease,Heart Disease,COPD
+0.0,M,white,nonhispanic,M,0.0,84920.60958539136,Depression,Hypertension,Obesity,Diabetes,Heart Disease
+437.4417755357217,M,white,hispanic,D,0.0,0.0,Anxiety,Depression,Obesity,Asthma,Depression
+133.91181747205414,F,hispanic,hispanic,S,57062.66572574363,188717.39658201844,Diabetes,Diabetes,Arthritis,Hypertension,Diabetes
+0.0,M,hispanic,hispanic,W,0.0,0.0,,Hyperlipidemia,Depression,Hypertension,Obesity
+0.0,M,native,hispanic,W,0.0,0.0,Obesity,Obesity,Anxiety,Heart Disease,COPD
+551.4170976625651,M,native,hispanic,W,0.0,226501.87684998757,Hypertension,COPD,Heart Disease,Diabetes,Depression
+0.0,F,other,nonhispanic,S,39830.83428095732,367704.7812608484,Arthritis,Asthma,Arthritis,Asthma,Arthritis
+158.51015977563256,M,native,hispanic,S,1005985.5456427616,234131.78885094653,Heart Disease,Obesity,Heart Disease,Hyperlipidemia,Anxiety
+0.0,M,asian,nonhispanic,D,0.0,387204.6750502567,Heart Disease,Asthma,,Obesity,COPD
+334.81904411066773,F,asian,hispanic,W,0.0,432865.07614041853,Obesity,,Heart Disease,Hyperlipidemia,Depression
+0.0,M,asian,nonhispanic,W,0.0,604949.4721638978,Depression,Obesity,Hyperlipidemia,Heart Disease,Hyperlipidemia
+14.523378226117217,F,white,nonhispanic,W,320621.2938144601,0.0,Diabetes,COPD,Heart Disease,Asthma,COPD
+0.0,F,black,hispanic,D,0.0,124329.91077110311,Depression,Obesity,COPD,COPD,COPD
+0.0,F,black,nonhispanic,M,779686.9280170614,0.0,,Asthma,Diabetes,Arthritis,Asthma
+118.73449112429502,F,white,nonhispanic,D,0.0,75965.52296146668,,,Anxiety,Asthma,Depression
+0.0,F,asian,hispanic,S,667852.0776819513,0.0,Depression,Hypertension,Hyperlipidemia,COPD,Arthritis
+0.0,F,white,hispanic,M,0.0,73439.21455316432,Depression,Obesity,,Hypertension,Obesity
+122.93623633681281,M,white,hispanic,W,0.0,0.0,Asthma,,Anxiety,COPD,Anxiety
+0.0,M,native,hispanic,D,100074.0818693656,336074.2095400323,,,Hypertension,Heart Disease,COPD
+173.8619090183904,F,asian,nonhispanic,W,243632.36832375763,0.0,Hyperlipidemia,Anxiety,Arthritis,Hyperlipidemia,COPD
+0.0,F,asian,nonhispanic,D,0.0,372187.5035141868,Hyperlipidemia,Diabetes,Obesity,COPD,
+0.0,M,white,nonhispanic,W,0.0,102610.05337142322,Anxiety,Arthritis,Asthma,,
+245.90586056682733,M,white,nonhispanic,D,0.0,0.0,Depression,Depression,Anxiety,Diabetes,Obesity
+0.0,M,asian,hispanic,W,0.0,0.0,Hyperlipidemia,Obesity,Arthritis,Hypertension,Asthma
+122.46227221037549,F,white,hispanic,W,903207.2709561852,558207.6000508695,Hypertension,Arthritis,Hyperlipidemia,COPD,COPD
+37.63328494224045,F,other,hispanic,W,0.0,552551.94033887,Obesity,COPD,,Arthritis,
+0.0,M,black,nonhispanic,D,0.0,168891.2094506421,Anxiety,,Depression,Hyperlipidemia,Asthma
+0.0,F,white,hispanic,D,450054.5333864929,0.0,Depression,Diabetes,COPD,Hyperlipidemia,Hypertension
+0.0,M,other,hispanic,D,179369.3763812979,0.0,Anxiety,Heart Disease,Anxiety,Heart Disease,Anxiety
+294.6313137381395,M,other,hispanic,W,155883.9220405371,39.93855097868351,Hyperlipidemia,Obesity,Anxiety,Hypertension,Arthritis
+0.0,M,black,hispanic,M,103971.45458682581,98298.06848991173,Asthma,Asthma,,Asthma,COPD
+0.0,F,white,nonhispanic,W,1759841.681906995,198462.7446817662,COPD,Diabetes,COPD,Asthma,Depression
+263.5506254749778,M,asian,nonhispanic,D,0.0,0.0,COPD,,Obesity,COPD,COPD
+1439.7404200851427,F,other,nonhispanic,D,849628.0567916117,797578.5160106109,Arthritis,COPD,Heart Disease,Hyperlipidemia,Obesity
+0.0,M,asian,hispanic,D,302422.24750576995,578011.6266193199,COPD,Asthma,Obesity,,Arthritis
+71.22179089933951,F,native,nonhispanic,M,0.0,384289.4478475234,COPD,Hyperlipidemia,Depression,Hyperlipidemia,
+202.73790075694262,F,white,nonhispanic,S,0.0,0.0,Anxiety,Depression,Heart Disease,Asthma,Heart Disease
+0.0,F,other,hispanic,D,0.0,0.0,Hyperlipidemia,Obesity,Asthma,Anxiety,
+64.65395284317707,M,white,nonhispanic,D,1180188.4820125662,112905.45242104089,Hypertension,,Arthritis,Asthma,Heart Disease
+0.0,M,native,nonhispanic,D,0.0,464751.7525504769,Heart Disease,Obesity,Asthma,Asthma,Depression
+634.0105102037661,M,native,hispanic,D,0.0,723309.1143568514,Depression,Obesity,Anxiety,Hyperlipidemia,
+339.8837884614928,M,asian,nonhispanic,D,0.0,0.0,,Asthma,Hyperlipidemia,Asthma,Anxiety
+0.0,F,other,nonhispanic,M,0.0,0.0,COPD,Hypertension,Anxiety,Obesity,Anxiety
+0.0,M,black,nonhispanic,M,366371.54163494403,36666.23315434504,COPD,Obesity,Diabetes,COPD,COPD
+93.2822185694914,M,native,hispanic,W,134767.67956001108,408373.8371068438,Hypertension,COPD,Heart Disease,Hypertension,Hypertension
+0.0,M,asian,hispanic,D,116128.68595349799,9651.170193446618,COPD,,Hyperlipidemia,COPD,Anxiety
+0.0,M,white,hispanic,D,0.0,20588.652608204866,Diabetes,,,Anxiety,Heart Disease
+565.5457863741043,F,white,nonhispanic,D,0.0,0.0,Heart Disease,Asthma,,Obesity,Obesity
+0.0,M,asian,nonhispanic,D,0.0,0.0,Depression,Arthritis,Diabetes,Diabetes,COPD
+808.73181044933,M,white,hispanic,S,539986.3299003876,37627.32730197947,Depression,Diabetes,Diabetes,Hypertension,COPD
+0.0,M,other,hispanic,D,48416.14899515902,88363.70344931862,Obesity,Arthritis,Arthritis,Diabetes,COPD
+1321.5525289872805,M,black,nonhispanic,S,0.0,180738.2361036251,Anxiety,Hypertension,,Hypertension,Obesity
+45.90137113814595,M,native,nonhispanic,D,199156.1238439037,0.0,Diabetes,,Obesity,Hyperlipidemia,COPD
+0.0,M,native,nonhispanic,D,1029415.5044728519,0.0,,Heart Disease,Arthritis,,Anxiety
+0.0,M,white,nonhispanic,W,196453.343350023,0.0,Asthma,Hyperlipidemia,Hypertension,Hyperlipidemia,Heart Disease
+208.84723005665052,M,black,hispanic,M,0.0,20419.376344406613,Diabetes,COPD,Anxiety,Obesity,Hyperlipidemia
+104.61468608139697,F,native,nonhispanic,W,0.0,134889.99711723079,Heart Disease,Diabetes,Heart Disease,Hypertension,Diabetes
+287.6955777948434,M,black,hispanic,W,654337.0067095356,0.0,COPD,Arthritis,Hypertension,Depression,Hyperlipidemia
+242.13358244988498,M,other,nonhispanic,W,387281.3445345934,1976791.8998555704,Arthritis,Anxiety,COPD,Heart Disease,COPD
+77.63132142298109,M,black,hispanic,W,172483.64265179195,0.0,Asthma,Asthma,Heart Disease,Asthma,Arthritis
+0.0,M,native,hispanic,D,0.0,0.0,Diabetes,Diabetes,Anxiety,Obesity,Depression
+0.0,M,native,nonhispanic,W,0.0,356800.76571536425,COPD,Depression,Asthma,Hyperlipidemia,Hypertension
+149.95205428551273,M,white,nonhispanic,D,80152.03391713375,183011.50034798533,Depression,,Heart Disease,Depression,Arthritis
+0.0,M,hispanic,nonhispanic,D,0.0,0.0,Obesity,Diabetes,Diabetes,,COPD
+436.6654532286501,F,black,hispanic,D,0.0,189379.52569610009,COPD,Arthritis,Hypertension,Obesity,Hyperlipidemia
+0.0,M,native,nonhispanic,D,1395153.3519005093,0.0,Depression,Anxiety,Arthritis,COPD,Hyperlipidemia
+262.07355595449746,M,asian,nonhispanic,D,79363.63694393581,290448.2764776524,Arthritis,Diabetes,,Heart Disease,Asthma
+100.79871006230441,M,hispanic,nonhispanic,W,132013.8076455265,695964.5310922845,COPD,Hypertension,Heart Disease,Heart Disease,Obesity
+335.74531429255586,F,black,hispanic,M,0.0,0.0,Anxiety,Obesity,Diabetes,Hyperlipidemia,Anxiety
+363.4801456670868,M,white,hispanic,S,270094.775632745,0.0,Hyperlipidemia,Obesity,Asthma,Arthritis,Obesity
+0.0,M,hispanic,nonhispanic,M,263225.90658359404,0.0,Diabetes,Asthma,Diabetes,Depression,Diabetes
+0.0,F,white,nonhispanic,S,169733.22236880742,434681.46739227115,Depression,Hyperlipidemia,Hyperlipidemia,,Anxiety
+621.7335199081547,M,native,hispanic,D,178875.14614845946,493520.87267345714,Arthritis,Obesity,Obesity,Asthma,Depression
+139.02802566091887,M,hispanic,hispanic,W,0.0,0.0,Arthritis,Hypertension,Heart Disease,Hypertension,Hypertension
+0.0,M,black,nonhispanic,W,370068.1535138156,0.0,Hypertension,Depression,Hypertension,COPD,Diabetes
+0.0,F,white,nonhispanic,W,0.0,448911.3910301438,Hypertension,Diabetes,Diabetes,Heart Disease,Heart Disease
+613.806803953828,M,black,nonhispanic,W,333989.34420586866,129177.58019837638,Hypertension,Hyperlipidemia,Depression,Heart Disease,Obesity
+0.0,F,asian,nonhispanic,M,154759.63266553968,344625.84723017615,Anxiety,,COPD,Depression,Asthma
+0.0,M,black,nonhispanic,W,1079898.8890939842,0.0,,,COPD,Hypertension,Hypertension
+34.59091225517491,M,native,nonhispanic,W,429263.1894648132,1349373.7978418905,Obesity,Depression,Obesity,Asthma,Hypertension
+89.20462837675754,M,white,nonhispanic,D,366460.3190905682,20875.04402811382,Diabetes,Anxiety,Heart Disease,Anxiety,Obesity
+0.0,M,black,hispanic,D,0.0,0.0,Hypertension,Asthma,Obesity,Hypertension,COPD
+131.37290569734927,F,hispanic,hispanic,W,219408.16138222103,1089564.5941806927,Heart Disease,Obesity,Heart Disease,Heart Disease,
+0.0,M,black,nonhispanic,D,332479.92737352976,168418.10319651454,Anxiety,Diabetes,COPD,Hyperlipidemia,Depression
+163.06333836503245,F,native,nonhispanic,D,0.0,0.0,Diabetes,Arthritis,COPD,Depression,Asthma
+0.0,M,black,nonhispanic,M,0.0,303158.7233984128,Hypertension,Diabetes,Depression,Depression,
+157.58500370401148,M,hispanic,hispanic,D,0.0,477614.7179566227,Diabetes,Anxiety,COPD,COPD,Diabetes
+28.453099173271454,M,white,nonhispanic,W,0.0,838170.1128365302,Obesity,Hypertension,Asthma,Hyperlipidemia,Obesity
+0.0,F,asian,hispanic,D,670490.4142164702,42046.20530407173,Heart Disease,Asthma,,Depression,Asthma
+0.0,M,hispanic,hispanic,W,0.0,0.0,Depression,Diabetes,Arthritis,Depression,Asthma
+0.0,F,asian,hispanic,D,644445.9409961271,0.0,Anxiety,Hyperlipidemia,Depression,Heart Disease,Obesity
+0.0,F,black,nonhispanic,M,0.0,0.0,Depression,Diabetes,Hypertension,Depression,Diabetes
+207.12625541802296,F,other,hispanic,D,93338.1964836374,0.0,Depression,Diabetes,Anxiety,Hyperlipidemia,COPD
+0.0,M,hispanic,nonhispanic,M,352977.4437382502,0.0,,Obesity,Heart Disease,Hyperlipidemia,COPD
+75.73908223006666,F,asian,hispanic,S,0.0,0.0,COPD,,Depression,Arthritis,COPD
+703.9004536189499,F,white,nonhispanic,M,265256.7278718109,0.0,COPD,Hypertension,Anxiety,Asthma,Hypertension
+0.0,M,asian,nonhispanic,S,875542.3158271058,0.0,Arthritis,Obesity,Obesity,Asthma,Asthma
+0.0,M,native,nonhispanic,S,0.0,549042.5866370663,Depression,Asthma,Hypertension,Arthritis,COPD
+1.5094647972640658,F,white,hispanic,S,0.0,0.0,Hyperlipidemia,Diabetes,Anxiety,Hypertension,Arthritis
+257.642636321737,F,white,nonhispanic,W,722669.6111406804,0.0,Hyperlipidemia,Asthma,Anxiety,Asthma,
+6.890621858004295,F,hispanic,hispanic,W,414470.458447943,400627.6196578482,Diabetes,,Arthritis,Hypertension,
+0.0,M,hispanic,hispanic,W,7267.624385451767,516899.2704007406,Heart Disease,Hyperlipidemia,Obesity,Hypertension,Diabetes
+0.0,M,asian,nonhispanic,S,358308.2433830701,264420.9254734893,Anxiety,Hyperlipidemia,,Heart Disease,
+267.1588006298022,F,hispanic,nonhispanic,W,234782.55343727293,137616.07553051895,Depression,Depression,Heart Disease,Asthma,Diabetes
+83.43379036140485,F,white,nonhispanic,M,2706989.3792683166,0.0,Depression,Asthma,Diabetes,,
+38.813587309136445,M,white,hispanic,M,0.0,726832.6396886236,Arthritis,Asthma,Arthritis,Arthritis,Heart Disease
+417.46467418862454,F,black,nonhispanic,W,393331.43819959206,990545.6182469077,Hyperlipidemia,Obesity,,Obesity,Hypertension
+0.0,M,black,nonhispanic,D,235943.14317755617,1715308.4484766552,Arthritis,,Arthritis,Asthma,Asthma
+425.6933546275202,F,black,nonhispanic,W,0.0,0.0,Diabetes,Diabetes,Diabetes,Heart Disease,Asthma
+174.6650047570753,M,white,nonhispanic,D,0.0,133891.71459851,Depression,Obesity,COPD,Obesity,COPD
+0.0,M,black,hispanic,D,41473.93216678634,1003891.2993645623,,,Depression,Diabetes,COPD
+261.0447389920248,M,white,hispanic,S,551733.8438048387,465382.0041184655,Arthritis,Diabetes,Diabetes,COPD,Diabetes
+492.13832734396766,M,black,nonhispanic,M,621561.1525021223,0.0,Arthritis,Diabetes,Arthritis,Heart Disease,Depression
+374.0258078577803,M,white,nonhispanic,W,0.0,0.0,Anxiety,Hyperlipidemia,Asthma,,Obesity
+0.0,M,hispanic,hispanic,S,213162.53234385035,418290.38886634435,Obesity,Heart Disease,Hypertension,Heart Disease,Obesity
+0.0,M,black,nonhispanic,D,777458.8830883068,42169.75375106988,Arthritis,COPD,Hyperlipidemia,COPD,Depression
+0.0,F,hispanic,hispanic,W,904974.9904990675,0.0,Depression,Anxiety,Obesity,Diabetes,Hypertension
+284.74533561131966,M,asian,nonhispanic,D,0.0,544052.9234443284,Obesity,Depression,Arthritis,Arthritis,COPD
+150.6124943251671,F,white,nonhispanic,M,264677.12920762715,621917.5614033085,Depression,Arthritis,Heart Disease,Depression,
+0.0,M,black,hispanic,D,0.0,379565.53557411564,,Depression,Anxiety,COPD,Anxiety
+272.68602897633207,F,white,hispanic,W,808092.3588479557,9021.643389310986,Anxiety,Diabetes,Hyperlipidemia,,Asthma
+0.0,F,native,nonhispanic,W,449469.8901795222,239664.28144342767,,Diabetes,,Obesity,COPD
+0.0,M,other,hispanic,M,0.0,0.0,Arthritis,Arthritis,Asthma,Heart Disease,Anxiety
+0.0,M,asian,hispanic,S,703540.7343989345,0.0,Heart Disease,Hyperlipidemia,Hypertension,Hypertension,Arthritis
+0.0,M,other,hispanic,W,731239.2115347423,48739.173010076964,Anxiety,,Anxiety,Hyperlipidemia,Asthma
+0.0,M,asian,hispanic,D,118492.25433842129,336605.13444977876,Anxiety,Obesity,Heart Disease,Anxiety,Arthritis
+304.10865810602365,M,other,nonhispanic,D,0.0,438825.148242786,Depression,Depression,Asthma,Diabetes,Heart Disease
+8.670531167308592,M,asian,hispanic,M,111297.1489813393,268551.98385812686,Depression,Arthritis,Anxiety,Asthma,Depression
+0.0,M,black,nonhispanic,W,0.0,0.0,Obesity,,,Anxiety,Obesity
+0.0,M,other,hispanic,D,594595.7051337605,337036.11553245713,,Depression,Anxiety,Hyperlipidemia,Anxiety
+396.9780602858707,M,other,nonhispanic,D,102382.15055100856,172367.87165697885,Diabetes,Hyperlipidemia,Anxiety,Heart Disease,Heart Disease
+36.83106406342182,M,white,hispanic,D,0.0,183007.9819092943,Diabetes,Arthritis,Hyperlipidemia,Hypertension,COPD
+0.0,F,asian,nonhispanic,S,0.0,0.0,COPD,Hyperlipidemia,Hyperlipidemia,Obesity,Arthritis
+49.593924837086554,M,black,nonhispanic,S,474910.66468307876,26617.800322951443,Depression,Depression,Heart Disease,Obesity,COPD
+287.78562883231973,F,asian,nonhispanic,D,397321.6871926983,0.0,Arthritis,Obesity,Asthma,Anxiety,Depression
+0.0,M,black,nonhispanic,D,299330.5562291484,318110.0744982057,Depression,Heart Disease,,Anxiety,Diabetes
+840.8317788706679,M,white,nonhispanic,W,0.0,42922.3286475619,COPD,,Obesity,COPD,Depression
+0.0,F,native,nonhispanic,D,955998.7065662578,584566.7931435792,COPD,Asthma,Heart Disease,Heart Disease,COPD
+482.11833776767696,M,black,hispanic,D,1605459.3395270286,0.0,Depression,Asthma,Heart Disease,Hyperlipidemia,Diabetes
+365.2715230823661,M,other,hispanic,D,123865.71981088814,295384.1608360975,,,Heart Disease,Hypertension,Hypertension
+237.618288161142,M,asian,nonhispanic,D,189694.51253415513,0.0,Depression,Diabetes,Hypertension,Heart Disease,COPD
+96.21885223362028,F,native,nonhispanic,D,331973.9502186051,0.0,Anxiety,Obesity,Hyperlipidemia,Hypertension,Arthritis
+12.272707456160475,M,white,nonhispanic,D,0.0,422986.3131492886,Heart Disease,Hypertension,Hypertension,Hyperlipidemia,COPD
+447.6013362786394,M,hispanic,nonhispanic,W,0.0,0.0,Hyperlipidemia,Obesity,Heart Disease,COPD,Arthritis
+0.0,M,asian,nonhispanic,M,0.0,0.0,Arthritis,Depression,Asthma,Heart Disease,Arthritis
+67.3296575468709,M,hispanic,nonhispanic,W,178475.23746660352,1512116.8218466963,Obesity,Depression,Arthritis,Depression,Arthritis
+75.35512940420895,M,white,nonhispanic,W,52707.63644492792,164655.30110033642,,Arthritis,Asthma,Hypertension,Arthritis
+669.1485149269415,M,white,hispanic,D,0.0,578754.027913113,Anxiety,Asthma,Hyperlipidemia,Hypertension,COPD
+525.3607696365443,F,asian,hispanic,M,452297.0550835232,0.0,Diabetes,,Anxiety,Depression,COPD
+169.47448542128626,F,asian,hispanic,D,387996.7581438121,0.0,Anxiety,Diabetes,Heart Disease,Depression,Arthritis
+183.14947732836035,M,white,hispanic,S,160680.25527834872,873604.1801206707,,Heart Disease,COPD,Arthritis,Diabetes
+0.0,M,hispanic,hispanic,M,0.0,561232.0101097871,Arthritis,,Heart Disease,Depression,Hyperlipidemia
+0.0,M,hispanic,nonhispanic,D,310721.3084831841,0.0,Diabetes,,Hyperlipidemia,Diabetes,
+3.6439364317663774,F,white,hispanic,D,477223.1039269061,462190.75272257824,,Diabetes,COPD,Heart Disease,Anxiety
+705.6889091416066,M,native,hispanic,D,240992.5353528615,0.0,Diabetes,Heart Disease,Diabetes,,Hypertension
+435.0594457858513,F,native,nonhispanic,D,660620.6277259176,118250.98552126004,Hyperlipidemia,Depression,Obesity,Heart Disease,Heart Disease
+196.39904998651326,M,asian,nonhispanic,D,572836.5846314065,82799.25025765563,Depression,Depression,,Hypertension,Heart Disease
+47.05505945048856,M,hispanic,nonhispanic,W,304719.8564008693,0.0,Diabetes,Anxiety,Hypertension,Hypertension,Depression
+0.0,F,asian,nonhispanic,D,0.0,549489.3128308572,Hyperlipidemia,,COPD,Asthma,Asthma
+674.4790199031792,M,asian,hispanic,M,149969.87268836278,0.0,Asthma,,Asthma,Depression,
+0.0,F,white,nonhispanic,W,425077.85158161604,0.0,Anxiety,,Obesity,Heart Disease,Arthritis
+63.41886743450924,M,native,nonhispanic,S,0.0,170416.23580728107,Arthritis,Asthma,,Heart Disease,Diabetes
+0.0,F,hispanic,nonhispanic,M,0.0,283330.051255177,COPD,Hypertension,Arthritis,COPD,
+0.0,F,asian,hispanic,S,894219.8607458984,0.0,Heart Disease,Heart Disease,Heart Disease,Heart Disease,Diabetes
+0.0,M,black,hispanic,S,0.0,0.0,Anxiety,Arthritis,Obesity,Hypertension,Heart Disease
+115.9751703762864,M,black,nonhispanic,D,0.0,319966.4351131075,,Obesity,Anxiety,Anxiety,Depression
+0.0,M,asian,nonhispanic,D,252288.9552007403,281619.1688601159,Obesity,Hyperlipidemia,Diabetes,Hyperlipidemia,Heart Disease
+0.0,M,hispanic,nonhispanic,W,410230.3625466762,305060.77456336166,Arthritis,Asthma,Asthma,Heart Disease,Depression
+797.20721287287,M,white,nonhispanic,D,305451.87239545386,30269.060720042078,Anxiety,Hyperlipidemia,,COPD,COPD
+0.0,F,white,hispanic,D,216905.45538341446,173536.00036247834,Anxiety,,Anxiety,Hypertension,
+88.03418151354364,M,hispanic,nonhispanic,W,168839.1635465314,68934.30631208615,COPD,Obesity,Anxiety,Arthritis,Diabetes
+0.0,M,black,nonhispanic,D,139733.1627503898,0.0,Anxiety,Hyperlipidemia,,Heart Disease,COPD
+215.92770905266732,M,black,nonhispanic,D,50308.23678074141,112069.0134459631,Diabetes,Hypertension,Diabetes,Arthritis,
+53.13070174574373,F,other,hispanic,S,50425.227901292164,672657.6391151078,COPD,Depression,Heart Disease,Asthma,Heart Disease
+325.2702540849949,M,asian,hispanic,D,1028718.7543669282,49950.93271230239,Arthritis,Asthma,Hyperlipidemia,Obesity,Hyperlipidemia
+0.0,M,white,nonhispanic,D,217845.85472648745,33075.338318760936,Heart Disease,Heart Disease,Anxiety,Anxiety,
+0.0,M,native,nonhispanic,S,179051.74657013765,939112.4909408845,Depression,COPD,Anxiety,Diabetes,COPD
+197.1195596647324,M,native,hispanic,W,252505.54184417275,197793.00508844986,Depression,Obesity,Hyperlipidemia,Heart Disease,
+0.0,M,native,nonhispanic,M,0.0,0.0,Anxiety,Arthritis,Asthma,Anxiety,Asthma
+245.55845075975517,F,black,nonhispanic,D,0.0,44440.325978341665,Diabetes,,COPD,Heart Disease,
+116.79341834718858,F,asian,hispanic,S,370346.9948222679,355849.71851337055,Depression,Hyperlipidemia,Depression,,Depression
+102.18677506594496,F,native,nonhispanic,M,0.0,358421.97964151343,Diabetes,Arthritis,Anxiety,Anxiety,COPD
+0.0,M,native,nonhispanic,D,0.0,114568.41296431076,Obesity,Arthritis,,COPD,Hyperlipidemia
+56.30916836955138,M,asian,hispanic,D,168064.80613988344,0.0,Hypertension,COPD,Hypertension,Diabetes,Diabetes
+0.0,F,white,hispanic,D,1514385.83813997,0.0,Arthritis,Anxiety,Hyperlipidemia,Asthma,Anxiety
+903.7881801472262,M,black,hispanic,D,346559.21885665756,0.0,Hyperlipidemia,Diabetes,Hypertension,Arthritis,Heart Disease
+101.72926699929108,M,asian,hispanic,S,333696.2097244926,126217.288822833,Depression,Arthritis,Hyperlipidemia,,Anxiety
+0.0,M,native,hispanic,W,627300.9197310177,0.0,Heart Disease,,Obesity,COPD,Anxiety
+0.0,M,asian,nonhispanic,D,241394.47854526117,0.0,Heart Disease,Heart Disease,Arthritis,Obesity,COPD
+36.33757103481793,M,hispanic,nonhispanic,W,179091.72782548727,0.0,Hypertension,Depression,Depression,Hypertension,COPD
+609.2694848367894,M,hispanic,nonhispanic,W,107884.445704669,441621.3884473765,Diabetes,Anxiety,Obesity,Arthritis,Depression
+82.23554617425518,M,asian,nonhispanic,D,138843.25479126934,508618.8957791484,Heart Disease,Asthma,Obesity,Heart Disease,Heart Disease
+0.0,M,native,nonhispanic,W,0.0,0.0,Hyperlipidemia,Asthma,Diabetes,COPD,Obesity
+0.0,M,white,hispanic,D,0.0,508451.207698689,Depression,Anxiety,Arthritis,Arthritis,Hypertension
+0.0,M,white,hispanic,D,143793.8586823509,0.0,Depression,Depression,,Diabetes,Anxiety
+67.8060088184858,M,black,hispanic,W,0.0,464108.3806051808,COPD,Asthma,Anxiety,Hypertension,Hypertension
+0.0,M,asian,nonhispanic,W,285881.7783854991,114231.67616614024,,Diabetes,COPD,Hyperlipidemia,Hypertension
+258.9047155015959,F,hispanic,nonhispanic,W,0.0,23962.882595677147,Arthritis,Heart Disease,COPD,Obesity,Arthritis
+5.493075178659737,M,other,hispanic,S,220422.20627850527,93427.01991598519,Obesity,Diabetes,Asthma,Asthma,Asthma
+0.0,M,black,hispanic,D,0.0,0.0,Anxiety,Arthritis,Arthritis,Diabetes,Hyperlipidemia
+0.0,F,white,nonhispanic,M,307886.19365684345,1701562.655769831,Depression,Depression,Asthma,Asthma,Asthma
+24.443457158176418,M,white,hispanic,M,580424.5802301522,0.0,Diabetes,Heart Disease,Heart Disease,COPD,Anxiety
+1449.554993880902,M,asian,hispanic,D,128009.4365382546,0.0,Obesity,Hypertension,Anxiety,Diabetes,Heart Disease
+343.5854522863589,M,other,hispanic,S,0.0,553398.941413438,Obesity,Hypertension,Obesity,Asthma,Depression
+0.0,M,black,nonhispanic,S,0.0,296666.6319902813,Anxiety,Obesity,Asthma,Asthma,COPD
+0.0,M,hispanic,nonhispanic,S,154061.98289792635,22096.790753868205,Heart Disease,Asthma,COPD,Diabetes,Arthritis
+210.84521193698623,M,white,nonhispanic,D,507422.1682284409,0.0,Arthritis,Hypertension,,Obesity,Asthma
+804.5107343676203,M,native,hispanic,M,0.0,0.0,Anxiety,Heart Disease,Arthritis,Asthma,COPD
+0.0,M,black,hispanic,M,767477.6576302565,305652.9550622689,Hyperlipidemia,Anxiety,Depression,Arthritis,Depression
+128.31418482105934,M,white,hispanic,S,2015286.6518695701,0.0,,Depression,Hypertension,Diabetes,Depression
+374.22741853460076,F,other,hispanic,D,2065182.1269483783,950124.092106265,Asthma,Asthma,Heart Disease,Diabetes,Depression
+8.859161655486261,F,asian,nonhispanic,D,0.0,0.0,Obesity,Obesity,COPD,Asthma,COPD
+0.0,M,asian,nonhispanic,W,0.0,0.0,Hypertension,Obesity,Arthritis,Hypertension,COPD
+76.8357449485184,M,black,hispanic,W,705027.8019883545,514933.402851318,Hyperlipidemia,COPD,Arthritis,Diabetes,COPD
+154.32264193958025,F,hispanic,hispanic,D,0.0,21487.994077329364,Asthma,Heart Disease,Hypertension,Hyperlipidemia,COPD
+0.0,M,native,nonhispanic,W,0.0,47082.90569692645,Diabetes,Depression,Heart Disease,Heart Disease,Anxiety
+0.0,M,hispanic,hispanic,D,338331.70722531783,0.0,Diabetes,,Depression,Heart Disease,Asthma
+337.0240094082731,M,black,nonhispanic,S,170397.7608912306,0.0,Obesity,Depression,Arthritis,Hypertension,Hypertension
+0.0,F,asian,hispanic,S,0.0,622774.9007909887,COPD,Anxiety,Arthritis,,Arthritis
+167.0011544265899,F,native,nonhispanic,D,83973.48178826783,1197088.8041178973,COPD,Hypertension,,COPD,Asthma
+250.27670546806345,M,asian,hispanic,M,10564.6736922661,12140.579724605806,Depression,Depression,,Asthma,Obesity
+127.4743080943167,M,white,nonhispanic,S,630702.6038005142,29957.36820685269,Hypertension,Anxiety,COPD,COPD,Hyperlipidemia
+70.70351286345289,F,black,nonhispanic,D,0.0,0.0,Diabetes,Depression,Depression,,Diabetes
+0.0,F,asian,nonhispanic,M,0.0,3076.473023362116,Asthma,COPD,Diabetes,Hyperlipidemia,Asthma
+0.0,M,black,nonhispanic,M,0.0,0.0,Diabetes,Depression,Heart Disease,Hypertension,COPD
+272.69754563548366,F,hispanic,hispanic,D,1656244.7259198208,1320190.408328714,Heart Disease,Heart Disease,,Heart Disease,Obesity
+146.2421325691678,M,white,nonhispanic,S,59892.008394546065,350925.17905523116,Arthritis,Hypertension,Heart Disease,,COPD
+0.0,M,white,nonhispanic,M,520345.99793088954,0.0,Diabetes,COPD,Depression,COPD,Asthma
+615.1160302417769,M,native,hispanic,S,0.0,40317.27479758613,Anxiety,Anxiety,Anxiety,Obesity,Depression
+192.3157934294377,M,hispanic,nonhispanic,W,858124.305265768,218431.41835239154,Depression,Anxiety,Heart Disease,Hypertension,Obesity
+150.93694415580654,M,hispanic,nonhispanic,W,0.0,31578.09154067238,Obesity,Obesity,COPD,Asthma,Diabetes
+0.0,F,hispanic,hispanic,D,71469.81063325414,159318.6724352682,Anxiety,Hypertension,Heart Disease,Depression,Heart Disease
+0.0,F,white,nonhispanic,W,0.0,0.0,Anxiety,,,Asthma,Arthritis
+62.98989617228842,F,asian,nonhispanic,M,0.0,0.0,Depression,Arthritis,Diabetes,COPD,
+151.08668143269784,F,asian,hispanic,D,107938.3190157795,0.0,,Diabetes,Heart Disease,Hyperlipidemia,COPD
+271.85257878960056,F,native,hispanic,M,22780.933337394817,0.0,Heart Disease,Arthritis,Depression,Asthma,COPD
+123.36354982838628,M,asian,hispanic,M,172.42663209227612,134597.3275402374,Hyperlipidemia,Obesity,Diabetes,Asthma,Asthma
+865.9679494902816,M,asian,nonhispanic,W,0.0,316572.2051462515,Diabetes,Diabetes,Diabetes,Obesity,Hypertension
+0.0,F,asian,nonhispanic,M,64380.87529699692,142560.05209330493,Arthritis,COPD,Asthma,COPD,Anxiety
+738.9814501171542,F,asian,hispanic,S,259308.1490027328,116950.47538264708,Anxiety,Depression,COPD,Anxiety,Hyperlipidemia
+169.19163605449054,F,other,hispanic,W,0.0,0.0,Obesity,Obesity,Obesity,Hyperlipidemia,Arthritis
+0.0,F,asian,nonhispanic,D,130399.04378236693,133581.84110621462,Obesity,Obesity,Obesity,Hyperlipidemia,Depression
+0.0,F,native,hispanic,D,0.0,234342.40852898677,Depression,Depression,Heart Disease,Hypertension,
+57.55124193629368,F,white,nonhispanic,S,0.0,51795.928890527655,Obesity,Depression,Hypertension,Hyperlipidemia,Hyperlipidemia
+0.0,M,other,hispanic,D,731994.4862172353,63788.24656334803,Arthritis,Diabetes,Anxiety,Diabetes,Diabetes
+0.0,M,asian,nonhispanic,D,0.0,152583.89092718926,,Asthma,Heart Disease,,COPD
+301.6556776516503,F,asian,nonhispanic,W,0.0,0.0,Hypertension,Heart Disease,Arthritis,Hyperlipidemia,Anxiety
+2.5442827091934532,M,asian,hispanic,M,694810.4848527844,1048264.8160192647,Asthma,Asthma,Anxiety,Hypertension,Anxiety
+121.98156780584928,F,white,hispanic,W,0.0,224237.64326027106,,Hyperlipidemia,COPD,Diabetes,
+0.0,F,black,nonhispanic,S,456382.3507458505,544190.2763560315,Arthritis,Asthma,,Arthritis,COPD
+146.64477309102543,M,native,hispanic,D,172235.80999300175,980384.828899492,COPD,Hyperlipidemia,Diabetes,Hypertension,Depression
+1086.268998518255,F,black,hispanic,M,312268.04811041,22324.911815506133,Anxiety,Anxiety,Arthritis,Hypertension,Hypertension
+0.0,F,white,hispanic,D,0.0,417749.7191681795,Diabetes,Depression,Anxiety,Arthritis,
+12.982029763766574,M,white,hispanic,W,0.0,29721.925287692226,COPD,COPD,Asthma,Arthritis,Asthma
+0.0,F,white,hispanic,W,547878.9703942719,951388.5567259394,Obesity,Depression,,Asthma,Hypertension
+0.0,M,white,hispanic,D,0.0,441529.2395705467,Arthritis,Arthritis,Asthma,Anxiety,Hyperlipidemia
+84.82579300483629,M,asian,hispanic,W,0.0,155058.1975726356,Anxiety,Hyperlipidemia,Obesity,Asthma,Depression
+0.0,M,hispanic,nonhispanic,D,0.0,0.0,Depression,Asthma,COPD,Arthritis,Depression
+49.3318499714795,M,asian,hispanic,S,0.0,470457.99582057423,Obesity,Depression,Heart Disease,Hypertension,Hyperlipidemia
+583.07419993892,M,asian,nonhispanic,D,0.0,554882.0607954719,Hyperlipidemia,Hypertension,Arthritis,Anxiety,
+0.0,M,white,nonhispanic,D,0.0,372051.93729821575,Arthritis,,,COPD,COPD
+47.46527261501274,M,asian,hispanic,D,985894.6930815018,0.0,Depression,Asthma,Hypertension,Hyperlipidemia,COPD
+0.0,M,asian,hispanic,D,0.0,543686.8011388269,Asthma,Arthritis,Asthma,,Arthritis
+51.14616807991513,M,native,nonhispanic,M,443640.0429239851,0.0,Heart Disease,Diabetes,Hypertension,Asthma,Depression
+0.0,F,hispanic,hispanic,S,0.0,0.0,,Hypertension,Hypertension,Hypertension,Hyperlipidemia
+28.707309374399937,M,hispanic,hispanic,D,362152.54805203597,0.0,Depression,Obesity,Hyperlipidemia,COPD,Hyperlipidemia
+0.0,M,hispanic,hispanic,W,287931.0270664138,111233.1139306734,COPD,Arthritis,Heart Disease,Heart Disease,Hyperlipidemia
+0.0,M,black,nonhispanic,D,1166292.88443005,408562.26102725713,Arthritis,Heart Disease,Diabetes,Anxiety,Anxiety
+0.0,M,asian,nonhispanic,S,458924.00038666785,236533.9901552719,Anxiety,Anxiety,Obesity,Asthma,Asthma
+148.48863096411878,M,asian,hispanic,D,105964.43075565941,831129.8321732127,Arthritis,Asthma,Diabetes,Depression,Depression
+272.9846229774927,M,asian,hispanic,D,135542.11201910878,297057.9154571814,COPD,Diabetes,Hypertension,Obesity,Heart Disease
+104.88037597777203,F,white,nonhispanic,S,329867.65864949184,0.0,Anxiety,,Arthritis,Hyperlipidemia,Diabetes
+0.0,M,white,hispanic,W,0.0,28988.141100269306,Depression,Heart Disease,Obesity,Heart Disease,Obesity
+198.1584836850447,M,black,nonhispanic,W,198538.277147167,193634.8817287996,Asthma,Hypertension,Hyperlipidemia,Heart Disease,Arthritis
+457.80352343433907,F,hispanic,nonhispanic,M,686059.5092310122,670324.4130123397,Arthritis,,Diabetes,Obesity,Hyperlipidemia
+186.85461225462808,M,hispanic,hispanic,S,0.0,514488.6512964874,COPD,,Hyperlipidemia,Hypertension,Heart Disease
+0.0,F,black,hispanic,S,303486.4019818348,11003.56017123719,Arthritis,Heart Disease,COPD,,Hypertension
+0.0,F,asian,nonhispanic,D,0.0,98971.22633613556,Heart Disease,Diabetes,,Hypertension,Heart Disease
+0.0,M,other,nonhispanic,M,270025.4123506862,0.0,Obesity,Heart Disease,Heart Disease,Anxiety,Hyperlipidemia
+301.57481997709465,M,hispanic,hispanic,W,236442.7255857299,0.0,,Heart Disease,COPD,Diabetes,Asthma
+0.0,M,other,hispanic,D,65961.57207276658,378107.0374422238,Heart Disease,,Arthritis,Obesity,Hyperlipidemia
+0.0,M,white,hispanic,W,0.0,341659.86850461684,Depression,,Asthma,Heart Disease,Asthma
+248.7989285397673,F,white,hispanic,D,240808.79057848634,1525744.2503149663,,Diabetes,Hyperlipidemia,Hypertension,COPD
+775.3901250893366,M,black,hispanic,W,432719.35405958595,448094.6908953909,Hyperlipidemia,Hyperlipidemia,Arthritis,Obesity,Asthma
+27.015424883473155,M,asian,nonhispanic,D,439456.1481980475,216701.52459804976,Arthritis,Depression,Asthma,,COPD
+171.30492769385302,M,black,hispanic,W,0.0,40285.151282598956,Obesity,Depression,Obesity,Asthma,Hypertension
+341.23315553426227,M,asian,hispanic,S,252082.75918205135,0.0,Depression,Obesity,Asthma,,COPD
+294.6290165870396,F,other,hispanic,D,810678.777331705,62282.272216135476,Asthma,Heart Disease,Heart Disease,,Arthritis
+0.0,F,black,nonhispanic,M,616337.963128573,330829.9658993487,Obesity,Arthritis,Diabetes,Heart Disease,COPD
+463.5078023546945,M,asian,hispanic,M,0.0,0.0,Obesity,Heart Disease,,COPD,Heart Disease
+0.0,M,hispanic,hispanic,D,336195.81948230637,0.0,Diabetes,Hyperlipidemia,COPD,Anxiety,Hyperlipidemia
+194.5022037244146,M,native,hispanic,M,92317.44045055677,85389.37315294382,Hyperlipidemia,Depression,Arthritis,Hypertension,Hyperlipidemia
+155.15950144327363,M,hispanic,nonhispanic,W,675986.9270905856,79564.32406989174,Obesity,Asthma,Asthma,Heart Disease,COPD
+511.6229443548187,M,black,hispanic,W,0.0,0.0,,Asthma,COPD,Hypertension,
+0.0,M,native,hispanic,D,0.0,849302.7398000695,,Asthma,Asthma,Hypertension,COPD
+584.0262240015146,M,native,nonhispanic,D,1060984.3842828097,0.0,,COPD,Heart Disease,Diabetes,Asthma
+173.37697671034942,F,black,nonhispanic,M,261159.5915030251,595364.69343813,Arthritis,,Arthritis,Hyperlipidemia,Heart Disease
+202.5142747156628,F,black,hispanic,W,688339.0177369392,0.0,Hypertension,Hypertension,Arthritis,,Asthma
+21.62519561735918,M,white,hispanic,S,270544.8382576711,410452.8326401362,Arthritis,Hyperlipidemia,Hyperlipidemia,Asthma,Asthma
+0.0,M,asian,nonhispanic,W,938922.7690323435,97845.60970265252,Asthma,Obesity,Anxiety,COPD,Hypertension
+0.0,F,other,nonhispanic,M,725710.9701349935,788622.9369620044,Hyperlipidemia,Obesity,Heart Disease,COPD,COPD
+0.0,F,asian,nonhispanic,W,467314.5884546585,123363.65058240815,Heart Disease,Obesity,COPD,Asthma,
+192.55368485468833,F,asian,nonhispanic,D,0.0,486189.75816508767,Depression,,COPD,COPD,Diabetes
+0.0,M,asian,nonhispanic,W,0.0,0.0,Anxiety,Depression,Obesity,Asthma,Asthma
+782.9829765261242,M,asian,nonhispanic,D,0.0,0.0,COPD,Hyperlipidemia,Depression,Obesity,Obesity
+199.7351599419871,M,white,nonhispanic,D,31312.583294357217,0.0,Hypertension,Hyperlipidemia,Obesity,Asthma,Arthritis
+0.0,M,asian,hispanic,W,1191949.7289593443,158096.8543593238,COPD,Hyperlipidemia,Hyperlipidemia,Asthma,Hypertension
+0.0,F,asian,nonhispanic,D,170816.3487323686,146053.82796603788,Hyperlipidemia,Diabetes,Hypertension,Heart Disease,Depression
+112.9819406772711,M,hispanic,hispanic,D,0.0,0.0,,Heart Disease,Heart Disease,COPD,Anxiety
+136.01920487517353,F,native,nonhispanic,W,0.0,0.0,Hyperlipidemia,,Diabetes,Asthma,Depression
+0.0,M,asian,hispanic,D,1018426.4118172167,0.0,Obesity,,Hypertension,Asthma,Depression
+0.0,F,asian,nonhispanic,S,133701.81267166507,23163.69425974466,Asthma,COPD,COPD,Diabetes,
+27.36400571151249,M,white,hispanic,W,0.0,0.0,COPD,Arthritis,,Diabetes,COPD
+134.70241409580908,M,native,nonhispanic,S,307611.74746797374,0.0,Anxiety,Diabetes,Heart Disease,Hyperlipidemia,COPD
+0.0,M,white,nonhispanic,D,377175.5301147888,0.0,Hyperlipidemia,,Hypertension,Asthma,Arthritis
+128.44465425980405,M,hispanic,nonhispanic,W,906271.909828663,0.0,Diabetes,COPD,Asthma,Asthma,Hypertension
+70.62452628306859,M,white,hispanic,S,134574.3466050274,0.0,Anxiety,Obesity,Asthma,COPD,Heart Disease
+85.09690693764435,M,asian,hispanic,D,119284.98562164887,0.0,Depression,Anxiety,Hypertension,Arthritis,COPD
+160.20288553778738,M,native,nonhispanic,W,0.0,242737.03643205948,Diabetes,Anxiety,Arthritis,Heart Disease,COPD
+0.0,M,white,nonhispanic,M,0.0,85854.63479434018,COPD,Hypertension,Heart Disease,Asthma,Heart Disease
+90.24862268895222,M,native,hispanic,W,33689.759306005435,565230.5263575349,Depression,Obesity,Depression,Hypertension,Hypertension
+194.789122795631,M,other,hispanic,D,352864.3273957952,39570.23006798538,,Arthritis,Depression,Asthma,Asthma
+0.0,M,other,nonhispanic,W,0.0,0.0,COPD,Diabetes,Heart Disease,Asthma,COPD
+0.0,F,asian,hispanic,M,333339.20468870946,846840.6491213636,Anxiety,Depression,Obesity,Asthma,Hypertension
+481.3417325007272,M,white,hispanic,W,46676.5310194046,35115.17727756957,Anxiety,Hyperlipidemia,Diabetes,Hyperlipidemia,Arthritis
+315.5960121893687,M,asian,hispanic,W,0.0,197504.16589206422,Obesity,Asthma,Hypertension,,
+0.0,M,white,nonhispanic,S,373831.89634039736,0.0,Depression,Hyperlipidemia,Hypertension,Hyperlipidemia,Asthma
+79.93369031448522,F,black,nonhispanic,M,327906.52285544196,0.0,COPD,Anxiety,Diabetes,Hypertension,Obesity
+0.0,F,other,hispanic,M,701566.0001642719,0.0,Depression,Obesity,Hypertension,Arthritis,Obesity
+0.0,F,white,nonhispanic,D,232246.20629904463,0.0,COPD,,Hyperlipidemia,COPD,COPD
+162.20354237451426,F,other,hispanic,S,531710.3164279067,0.0,Arthritis,Asthma,Asthma,Asthma,Anxiety
+0.0,M,hispanic,nonhispanic,D,69476.47856720323,0.0,Diabetes,Hyperlipidemia,,COPD,Obesity
+0.0,F,white,nonhispanic,D,0.0,195338.37565353213,Diabetes,,COPD,Depression,Diabetes
+0.0,F,asian,nonhispanic,D,0.0,38300.5923974212,Diabetes,,Hypertension,Asthma,Diabetes
+0.0,F,black,nonhispanic,M,985280.2553728764,914750.778365276,Depression,Diabetes,Asthma,Obesity,Obesity
+350.0534274400914,M,black,hispanic,S,588866.4903895416,0.0,,Asthma,Arthritis,Arthritis,COPD
+0.0,M,other,hispanic,W,0.0,7072.9391867130325,Obesity,Hypertension,Heart Disease,COPD,Heart Disease
+9.0841208826226,F,black,hispanic,D,0.0,31186.79139751274,Anxiety,Diabetes,Arthritis,Hyperlipidemia,Heart Disease
+100.19101054313097,M,asian,hispanic,D,180627.90907857908,19075.750652333365,Anxiety,Diabetes,Heart Disease,Hyperlipidemia,COPD
+622.3157056753358,M,other,hispanic,W,374133.75947146356,257031.93753142154,Diabetes,COPD,Hypertension,Anxiety,
+0.0,M,hispanic,hispanic,W,181086.68303196525,451403.5271828865,Diabetes,Diabetes,Heart Disease,Hypertension,COPD
+215.64745334840916,M,black,hispanic,D,301372.917515666,0.0,Asthma,Asthma,Arthritis,Hypertension,Heart Disease
+121.91307003347991,M,other,nonhispanic,D,0.0,180004.16287374147,Heart Disease,,Depression,Diabetes,Arthritis
+0.0,M,black,hispanic,M,602613.6096970537,189558.28111137013,COPD,Heart Disease,COPD,Heart Disease,Diabetes
+144.68912720185816,F,asian,hispanic,D,83113.06496212311,0.0,Anxiety,Asthma,,Anxiety,COPD
+9.147998298880267,M,asian,nonhispanic,M,270379.8510150753,1899.2585222050693,COPD,Obesity,Hyperlipidemia,Asthma,Heart Disease
+0.0,F,asian,nonhispanic,W,1881453.1030171579,0.0,Obesity,,Heart Disease,Obesity,COPD
+74.40208798628463,M,other,hispanic,D,995963.5853990586,353231.26904439705,Heart Disease,Diabetes,Hypertension,Hyperlipidemia,
+197.04019233565748,M,white,hispanic,W,0.0,133990.16021564626,Arthritis,Anxiety,Anxiety,Asthma,COPD
+524.1349072670637,M,black,hispanic,W,327826.67163337255,1082618.7906600302,Asthma,Diabetes,,Diabetes,Hypertension
+0.0,M,native,hispanic,W,0.0,0.0,,Diabetes,Hypertension,COPD,COPD
+1066.334510839523,M,white,hispanic,W,0.0,251891.82620822598,Arthritis,Arthritis,Asthma,Hypertension,Asthma
+0.0,F,black,hispanic,W,0.0,109353.61885610576,Depression,Hypertension,Hypertension,Depression,Hypertension
+254.12648979467147,F,native,hispanic,W,0.0,0.0,Depression,Depression,,Diabetes,Heart Disease
+0.0,M,asian,nonhispanic,D,0.0,492914.32631568273,Depression,Arthritis,Heart Disease,COPD,Hypertension
+0.0,M,other,hispanic,W,103084.64389383735,87240.27923226311,COPD,Diabetes,Depression,Asthma,Asthma
+0.0,M,asian,nonhispanic,W,539558.3038514422,0.0,Obesity,,Depression,Anxiety,Diabetes
+74.2678278557042,F,hispanic,hispanic,D,0.0,0.0,Arthritis,Heart Disease,Arthritis,Diabetes,COPD
+241.53427848381594,M,asian,nonhispanic,S,414356.24821610283,188153.7248002941,Diabetes,,Hypertension,Anxiety,
+438.1191241976066,F,asian,hispanic,M,26675.844151570374,125444.4093791034,Depression,,Hypertension,Arthritis,Hyperlipidemia
+154.26523199174704,M,asian,nonhispanic,D,0.0,18756.004991992453,Obesity,Arthritis,Depression,Anxiety,Heart Disease
+0.0,F,white,nonhispanic,M,0.0,1391495.3745474885,Depression,Obesity,Asthma,Hypertension,Obesity
+0.0,F,asian,nonhispanic,M,0.0,0.0,Heart Disease,Hyperlipidemia,COPD,Arthritis,Arthritis
+0.0,M,black,nonhispanic,W,0.0,233879.27347686532,Heart Disease,Depression,Depression,COPD,COPD
+582.8177904415421,M,white,nonhispanic,D,0.0,0.0,Asthma,Asthma,COPD,Heart Disease,Arthritis
+493.83777028371435,M,hispanic,hispanic,D,271974.2602548155,666080.1352415929,Hypertension,Depression,Hyperlipidemia,Anxiety,COPD
+254.0671982958991,F,white,hispanic,S,0.0,116753.81581300472,Heart Disease,Diabetes,COPD,Hypertension,Depression
+0.0,F,native,nonhispanic,D,0.0,0.0,COPD,,Arthritis,COPD,COPD
+0.0,M,native,nonhispanic,S,349748.8044467291,339814.8012929158,,Heart Disease,Heart Disease,Hypertension,COPD
+0.0,M,other,nonhispanic,M,248822.77120946377,222617.72357911995,Depression,Asthma,Anxiety,Heart Disease,Asthma
+100.62628482518298,F,other,hispanic,W,0.0,435156.2894297321,Diabetes,,Heart Disease,Diabetes,Arthritis
+0.0,M,asian,nonhispanic,M,0.0,0.0,Asthma,,Hyperlipidemia,Obesity,Depression
+158.5356077705461,M,native,nonhispanic,D,659897.1809038073,0.0,Arthritis,Hyperlipidemia,,,Diabetes
+954.7244079714691,F,black,hispanic,D,0.0,0.0,Hyperlipidemia,Obesity,Depression,Hypertension,Depression
+482.41275293820354,M,black,hispanic,D,702826.1713179374,0.0,Hypertension,Heart Disease,Heart Disease,Arthritis,Hyperlipidemia
+124.3542801345935,M,black,nonhispanic,W,298225.280302986,129604.70829390804,Arthritis,Depression,,Anxiety,COPD
+531.5860881287523,M,white,nonhispanic,D,39340.98099981526,214749.7473009043,COPD,Hypertension,COPD,COPD,Hyperlipidemia
+39.67143278003062,M,white,hispanic,S,324792.8038337297,192446.7519401444,COPD,Asthma,,Asthma,
+39.164600650291256,M,white,hispanic,W,0.0,112765.67503356906,,Asthma,Heart Disease,Asthma,COPD
+640.9070120991553,M,black,nonhispanic,D,61358.924227409516,0.0,COPD,Anxiety,Hypertension,Hyperlipidemia,Heart Disease
+86.38289219862628,F,black,hispanic,W,0.0,0.0,Hyperlipidemia,Anxiety,Arthritis,Depression,Heart Disease
+0.0,M,asian,nonhispanic,W,130114.35005782322,877201.9406126633,Diabetes,Diabetes,Hyperlipidemia,,Asthma
+206.5880425273171,M,white,hispanic,W,14436.203566416603,0.0,Anxiety,Hypertension,Asthma,Diabetes,Arthritis
+0.0,F,native,hispanic,S,200565.82915394104,152156.37441707397,Heart Disease,Arthritis,COPD,Asthma,Heart Disease
+232.29863199032673,M,white,nonhispanic,S,0.0,1339535.120860347,Depression,Asthma,Heart Disease,COPD,Heart Disease
+38.27995944784004,M,white,hispanic,S,0.0,0.0,Obesity,Obesity,Hyperlipidemia,Anxiety,COPD
+0.0,F,native,nonhispanic,W,32044.39305417586,2351864.028004385,COPD,Obesity,Heart Disease,Depression,Asthma
+0.0,F,white,nonhispanic,M,78959.57218327012,804623.9169584138,Depression,,Asthma,,Hyperlipidemia
+0.0,M,hispanic,nonhispanic,D,455434.1348889974,0.0,Anxiety,Asthma,Anxiety,Anxiety,Hyperlipidemia
+389.85064736014874,M,asian,hispanic,S,0.0,155937.98159763825,Diabetes,Hypertension,Arthritis,Obesity,COPD
+274.67371543592486,M,white,hispanic,M,0.0,695420.7372136548,Hyperlipidemia,Obesity,Arthritis,Asthma,COPD
+0.0,M,white,nonhispanic,W,28953.027183792583,306972.1655340237,,Asthma,Hypertension,,COPD
+291.9588528223851,M,asian,hispanic,D,0.0,62233.58664205432,Anxiety,Hyperlipidemia,Diabetes,Asthma,COPD
+0.0,F,black,nonhispanic,D,978150.4335954348,0.0,Depression,Heart Disease,Hypertension,Arthritis,Diabetes
+318.26721221063224,M,black,nonhispanic,M,653940.1137860693,154962.49764791143,COPD,Obesity,Diabetes,Hypertension,Obesity
+0.0,M,other,nonhispanic,D,1610229.2313656984,62306.73264074598,Diabetes,Anxiety,Diabetes,Heart Disease,COPD
+0.0,M,hispanic,hispanic,S,0.0,977773.8051131623,COPD,COPD,Heart Disease,Depression,
+0.0,M,other,nonhispanic,M,0.0,187363.86601115315,COPD,Diabetes,COPD,Heart Disease,COPD
+5.7716566776175,M,native,nonhispanic,D,0.0,3085.7971614531007,Hyperlipidemia,Arthritis,Arthritis,COPD,Anxiety
+100.57562558221865,F,white,nonhispanic,M,0.0,250319.44903679998,Anxiety,Diabetes,Heart Disease,Anxiety,Heart Disease
+410.5307248351972,M,asian,hispanic,M,0.0,0.0,Arthritis,Obesity,Hypertension,Diabetes,Diabetes
+94.44478504771799,M,asian,hispanic,M,292569.9129098345,108127.33665869276,Depression,,Heart Disease,Arthritis,Asthma
+554.1339055003333,F,white,nonhispanic,D,274112.1460620044,70910.80721215245,Hypertension,Obesity,Asthma,Anxiety,Anxiety
+4.823750423833933,M,white,hispanic,W,573896.2089671356,0.0,Depression,Obesity,Anxiety,Hypertension,Diabetes
+110.87018815879821,F,other,hispanic,S,897827.9027914974,1783386.3214609132,Anxiety,Depression,,Arthritis,Asthma
+0.0,F,black,nonhispanic,D,604227.9199756926,15940.982357082528,Arthritis,,Hypertension,Obesity,Depression
+156.87508827890198,M,white,nonhispanic,W,98535.94423851163,97153.02591837867,Anxiety,Depression,Arthritis,Arthritis,Diabetes
+1194.9067537440028,M,native,hispanic,W,0.0,92424.59198154163,,Depression,Heart Disease,Anxiety,Diabetes
+0.0,M,asian,hispanic,D,0.0,0.0,COPD,COPD,Diabetes,Anxiety,Hypertension
+95.79030485459401,M,asian,nonhispanic,S,285863.4522599023,487860.0663315213,Hypertension,Heart Disease,Obesity,COPD,Anxiety
+0.0,M,white,nonhispanic,W,246638.72659687113,0.0,Heart Disease,Asthma,Asthma,Depression,Arthritis
+62.69841437898306,F,black,nonhispanic,M,2369387.151171804,79177.96921289238,Anxiety,Diabetes,COPD,Asthma,COPD
+117.6998191991567,M,white,hispanic,M,411625.3470636935,0.0,Depression,COPD,,Hyperlipidemia,Diabetes
+85.13283280951036,M,hispanic,nonhispanic,W,0.0,323007.90187018726,Diabetes,Depression,Obesity,,Anxiety
+0.0,M,asian,nonhispanic,D,132278.25931062442,513502.2991042878,Diabetes,,,COPD,Anxiety
+0.0,M,black,nonhispanic,M,0.0,682198.8699591985,COPD,COPD,Depression,Hyperlipidemia,Asthma
+0.0,M,asian,hispanic,M,0.0,0.0,COPD,Obesity,Depression,Depression,Asthma
+383.0077651871178,M,white,nonhispanic,W,63405.54532189458,132195.50934409988,,COPD,,COPD,Depression
+593.2049107059112,F,asian,nonhispanic,W,0.0,214669.50474849698,Arthritis,Heart Disease,Obesity,Depression,Diabetes
+234.2943261344731,F,asian,nonhispanic,S,0.0,0.0,Depression,Depression,Arthritis,Arthritis,Obesity
+0.0,M,native,hispanic,D,0.0,48501.01570191345,Hypertension,,Diabetes,,Hypertension
+0.0,M,white,hispanic,W,365763.85227882356,181807.7335348571,Heart Disease,COPD,,Diabetes,
+0.0,M,asian,nonhispanic,M,0.0,0.0,Hypertension,Diabetes,,Anxiety,COPD
+79.00098642962513,F,white,nonhispanic,S,621690.0808046015,171739.82262060957,Obesity,Arthritis,Heart Disease,COPD,Asthma
+223.39605974493108,F,native,nonhispanic,D,235754.08703582984,0.0,Asthma,Arthritis,,Diabetes,COPD
+0.0,M,black,nonhispanic,W,418473.2733723595,0.0,Depression,Hyperlipidemia,Asthma,Hyperlipidemia,Depression
+0.0,F,native,nonhispanic,D,101254.3771234347,1187744.8353113064,Anxiety,Depression,,Hypertension,Hypertension
+0.0,F,asian,nonhispanic,M,0.0,129355.822862463,Heart Disease,Diabetes,Anxiety,Asthma,Diabetes
+59.07692248832885,M,hispanic,nonhispanic,D,0.0,0.0,Depression,Depression,Hypertension,Diabetes,
+0.0,M,black,nonhispanic,D,66904.55077134668,0.0,Diabetes,,Arthritis,Hypertension,Hypertension
+935.0861110708619,M,hispanic,hispanic,D,0.0,0.0,COPD,COPD,Anxiety,COPD,Depression
+29.74588875208649,M,white,nonhispanic,W,242683.74215316013,259241.89072897797,Arthritis,Hyperlipidemia,Obesity,Heart Disease,COPD
+247.71932857602005,M,other,nonhispanic,D,218857.78463463858,259911.3401236217,COPD,,Arthritis,Asthma,COPD
+6.028691528786535,M,hispanic,nonhispanic,W,0.0,0.0,Depression,Depression,Asthma,Heart Disease,COPD
+322.26417865136784,M,hispanic,hispanic,S,0.0,477957.24094174325,Depression,Arthritis,Diabetes,,Hyperlipidemia
+101.71702173075438,M,asian,nonhispanic,S,0.0,0.0,Heart Disease,,COPD,Arthritis,Diabetes
+197.81410797287998,F,hispanic,nonhispanic,M,394935.29376904323,0.0,Anxiety,Diabetes,Diabetes,,
+537.1028435821322,M,asian,nonhispanic,D,0.0,0.0,,Depression,COPD,Arthritis,Hyperlipidemia
+98.08975424887693,M,asian,nonhispanic,D,0.0,255602.1151766175,Asthma,Hyperlipidemia,Arthritis,Arthritis,
+770.2086547130741,F,white,hispanic,M,0.0,0.0,Depression,,COPD,Depression,Diabetes
+44.03282609815389,M,asian,hispanic,W,151766.10472271923,0.0,,Asthma,Heart Disease,Anxiety,Depression
+0.0,M,asian,nonhispanic,S,2245.5461038188805,342253.16318588407,Asthma,Obesity,Heart Disease,COPD,Anxiety
+0.0,F,black,nonhispanic,D,0.0,97908.23066860336,Heart Disease,Arthritis,COPD,Heart Disease,Heart Disease
+104.79122421955265,M,native,nonhispanic,W,0.0,1379.5836674181846,Obesity,Obesity,Hypertension,Hyperlipidemia,Depression
+74.9174244961823,F,asian,nonhispanic,D,39328.56657384352,0.0,Asthma,Obesity,Hyperlipidemia,Heart Disease,Hypertension
+2.8816520838109803,M,native,nonhispanic,S,0.0,1380151.450043026,Anxiety,Arthritis,Obesity,Arthritis,
+486.6890092252217,M,native,hispanic,D,0.0,0.0,Hypertension,Hyperlipidemia,COPD,Heart Disease,Depression
+528.8968042415582,M,white,nonhispanic,S,288622.0102360105,175830.33833319944,COPD,Obesity,Hyperlipidemia,Asthma,Diabetes
+562.5090706902952,M,white,hispanic,D,0.0,180614.1262300882,COPD,Hyperlipidemia,Heart Disease,COPD,COPD
+915.7450380502131,F,white,hispanic,D,532818.1482646608,0.0,Depression,Hyperlipidemia,Hypertension,Diabetes,Heart Disease
+0.0,M,asian,nonhispanic,S,635373.4581038748,0.0,Obesity,Asthma,Arthritis,Heart Disease,Hyperlipidemia
+524.1022045232118,M,white,hispanic,D,581823.8227562032,125281.93310953732,Hypertension,Hyperlipidemia,,Arthritis,COPD
+808.0907604080894,M,asian,nonhispanic,S,0.0,235545.07932102034,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+0.0,M,white,nonhispanic,M,0.0,153142.1708619396,Anxiety,Arthritis,Depression,,Obesity
+9.002341078854165,M,native,nonhispanic,W,444243.67931474885,218382.73256386432,Hypertension,,Asthma,Asthma,Depression
+125.94646864432853,F,asian,nonhispanic,M,267585.68464951194,5820.151663734359,Depression,,Diabetes,Anxiety,COPD
+8.843723300314327,M,white,hispanic,D,1464336.570171694,0.0,Depression,Obesity,,Diabetes,Anxiety
+0.0,F,white,nonhispanic,M,8862.355278275732,297577.8157482382,Depression,COPD,Asthma,Obesity,Anxiety
+55.71557852340768,M,hispanic,nonhispanic,S,0.0,0.0,Arthritis,Hypertension,Heart Disease,Depression,COPD
+566.5595124859293,F,hispanic,nonhispanic,M,279971.49314608844,0.0,Hyperlipidemia,Asthma,Diabetes,Asthma,COPD
+0.0,M,hispanic,hispanic,M,0.0,66780.78102404103,Anxiety,Asthma,Anxiety,Hyperlipidemia,Hyperlipidemia
+159.6394307658456,F,asian,hispanic,M,291808.6397834285,500538.1685112255,Diabetes,COPD,Asthma,COPD,Hyperlipidemia
+0.0,M,asian,nonhispanic,S,0.0,171274.09113156534,,Arthritis,,Asthma,Depression
+241.2204053727255,F,white,hispanic,W,0.0,208096.6432120698,Obesity,Arthritis,Anxiety,Depression,Hypertension
+0.0,M,asian,hispanic,D,233008.3460139903,0.0,,Heart Disease,Depression,,Hyperlipidemia
+186.05424871326164,M,asian,nonhispanic,M,0.0,40165.022360938594,Diabetes,Hyperlipidemia,Heart Disease,Asthma,Anxiety
+0.0,F,hispanic,nonhispanic,D,145275.86518122218,55857.85539712437,Obesity,Heart Disease,,COPD,Depression
+44.65052735287591,M,black,nonhispanic,M,0.0,273987.6039249794,,COPD,,,Heart Disease
+40.53851816666536,M,black,hispanic,D,0.0,0.0,Asthma,,Hypertension,Depression,Asthma
+0.0,M,hispanic,nonhispanic,W,0.0,382939.8667184056,Diabetes,Obesity,Heart Disease,Obesity,Heart Disease
+419.2846476904833,M,white,hispanic,W,0.0,0.0,Arthritis,Arthritis,,,Asthma
+0.0,M,white,hispanic,W,41706.123471476196,660334.2114488854,Anxiety,Hypertension,Hyperlipidemia,Asthma,Heart Disease
+79.07197842836122,F,white,hispanic,W,0.0,869936.3804183333,Anxiety,,Hypertension,Anxiety,Hypertension
+0.0,M,other,hispanic,D,0.0,214997.83182296803,COPD,Arthritis,Hypertension,COPD,Diabetes
+545.7601013924871,M,hispanic,hispanic,D,278078.09804674436,0.0,Hyperlipidemia,Diabetes,Depression,Asthma,Hyperlipidemia
+220.3073225432144,M,native,hispanic,D,209976.02538231277,976764.618766451,COPD,Hypertension,Asthma,Hypertension,Diabetes
+224.393394438512,M,asian,nonhispanic,S,140688.9604913124,492592.53550580237,Hypertension,Hyperlipidemia,Heart Disease,Asthma,Hyperlipidemia
+72.95318402390913,M,asian,nonhispanic,W,0.0,245042.89272013615,Hyperlipidemia,Diabetes,Depression,,Hypertension
+63.29210234585787,F,asian,nonhispanic,W,324337.28898877127,379931.1114799782,Anxiety,,Arthritis,COPD,Hyperlipidemia
+0.0,F,other,nonhispanic,W,345690.98502971395,803250.6893369725,COPD,Heart Disease,Asthma,Asthma,Arthritis
+0.0,M,white,hispanic,M,0.0,32156.002920623192,Depression,,Hypertension,Arthritis,Anxiety
+146.3348294254016,M,black,nonhispanic,W,503841.234473308,1569752.0721958622,Anxiety,Obesity,Hyperlipidemia,Hypertension,Anxiety
+0.0,M,black,nonhispanic,M,182277.617164907,501737.26781721204,Depression,Obesity,Asthma,Asthma,Depression
+0.0,M,hispanic,nonhispanic,W,578889.2330631788,222158.50771139853,Arthritis,Heart Disease,Diabetes,,Hypertension
+365.9739099693396,M,black,nonhispanic,D,761809.9801171318,116478.09714734931,Depression,Diabetes,Hypertension,Asthma,Hypertension
+0.0,M,white,nonhispanic,S,474105.22021659854,342370.44840560463,Arthritis,,COPD,COPD,Hyperlipidemia
+0.0,M,other,nonhispanic,M,133659.00953534967,246084.85608852087,Depression,Obesity,COPD,Depression,COPD
+0.0,M,hispanic,nonhispanic,M,1198127.6725672237,474749.4661176713,Depression,Hyperlipidemia,Arthritis,Anxiety,Hyperlipidemia
+0.0,M,asian,hispanic,W,37362.905543352696,278974.5062039814,Heart Disease,,Obesity,Heart Disease,Asthma
+0.0,M,asian,hispanic,S,0.0,0.0,,Hyperlipidemia,Heart Disease,Obesity,Obesity
+409.06130125524896,M,white,hispanic,W,254327.78005442492,61744.10413148782,Obesity,Diabetes,Hypertension,Hypertension,COPD
+0.0,F,black,hispanic,D,1092900.3890002344,547406.084470486,Hyperlipidemia,Depression,,Asthma,Anxiety
+396.200473020584,M,asian,nonhispanic,S,120784.14010301189,0.0,,COPD,,Hypertension,COPD
+0.0,F,white,nonhispanic,D,0.0,100518.13946473344,Obesity,COPD,Diabetes,Arthritis,Asthma
+52.95951893335001,M,asian,hispanic,W,0.0,547410.2486717087,Obesity,COPD,Anxiety,COPD,Hyperlipidemia
+0.0,F,black,hispanic,S,0.0,73828.9819914474,Depression,Obesity,Arthritis,Heart Disease,Asthma
+0.0,F,black,hispanic,W,0.0,801692.7677366917,COPD,Obesity,COPD,Anxiety,Asthma
+105.99767816474014,F,asian,nonhispanic,D,807793.9980931821,559566.0822694425,Depression,Arthritis,Anxiety,Depression,Depression
+5.344187669036863,F,black,hispanic,D,1036225.393003849,222461.43597346928,Hypertension,Arthritis,COPD,COPD,Depression
+0.0,M,native,nonhispanic,D,0.0,0.0,Diabetes,COPD,Heart Disease,Hyperlipidemia,COPD
+1020.9037763548878,F,black,hispanic,D,339133.4999049214,134073.37342912174,Anxiety,Diabetes,Diabetes,COPD,
+326.90937491772104,F,white,hispanic,W,0.0,0.0,Asthma,Arthritis,Hyperlipidemia,Depression,Hypertension
+0.0,M,white,nonhispanic,M,0.0,0.0,Arthritis,Arthritis,Hyperlipidemia,Asthma,Obesity
+106.30608372301418,M,asian,hispanic,M,0.0,0.0,Depression,Diabetes,Hypertension,Hyperlipidemia,Heart Disease
+0.0,M,white,hispanic,D,832773.8442984226,0.0,Diabetes,Arthritis,Asthma,COPD,COPD
+177.643684904393,F,asian,hispanic,D,0.0,124833.20724470464,Asthma,,Arthritis,Diabetes,Depression
+480.5964495163199,F,asian,nonhispanic,M,242448.83571261133,520558.7121586993,COPD,COPD,COPD,Depression,Depression
+0.0,M,white,nonhispanic,D,243647.1313846428,625680.7926574134,Arthritis,,Arthritis,Hyperlipidemia,Anxiety
+179.1145043514593,M,other,hispanic,W,0.0,527591.3240242897,,Depression,,Arthritis,COPD
+0.0,M,asian,nonhispanic,D,394007.29798810644,325868.79946101754,,Heart Disease,Obesity,Diabetes,COPD
+0.0,M,asian,hispanic,M,0.0,595150.0429684347,Arthritis,Hyperlipidemia,Heart Disease,COPD,Diabetes
+0.0,M,hispanic,hispanic,W,0.0,491155.0025179087,Arthritis,Depression,Asthma,Hypertension,Obesity
+219.1847758359049,M,black,hispanic,D,0.0,0.0,Anxiety,,Arthritis,Hypertension,Anxiety
+0.0,M,black,hispanic,D,0.0,599488.8472703625,Anxiety,Hypertension,Arthritis,Obesity,Depression
+0.0,F,other,hispanic,S,0.0,211527.6593903179,Anxiety,Heart Disease,,Depression,Hypertension
+151.99040165112805,M,white,nonhispanic,W,104680.14274421074,0.0,Diabetes,Diabetes,Heart Disease,COPD,Depression
+865.149801625598,F,other,nonhispanic,D,171242.6265171128,497088.020405121,Asthma,COPD,Heart Disease,,Depression
+0.0,M,black,hispanic,D,86923.8135679188,1207493.2573808378,Obesity,Diabetes,Depression,Hyperlipidemia,Asthma
+627.7730431551408,M,asian,nonhispanic,W,31407.088999210537,0.0,Arthritis,Diabetes,Heart Disease,Heart Disease,Hyperlipidemia
+0.0,M,hispanic,nonhispanic,W,593853.9712682894,441334.5300574752,Arthritis,Diabetes,Obesity,COPD,COPD
+0.0,M,black,hispanic,M,0.0,0.0,Hypertension,,Asthma,Asthma,Obesity
+0.0,M,asian,hispanic,W,282555.8971207559,0.0,Heart Disease,Asthma,Asthma,,Anxiety
+126.56575579572538,M,asian,nonhispanic,M,216436.91394421726,0.0,Diabetes,Obesity,Hypertension,Diabetes,
+0.0,M,hispanic,hispanic,W,309164.4773025007,0.0,Diabetes,COPD,Depression,Asthma,Depression

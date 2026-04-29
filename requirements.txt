@@ -1,0 +1,41 @@
+# ============================================================
+# Synthetic Data Generation Framework — Requirements
+# All versions pinned for reproducibility (MTech project)
+# ============================================================
+
+# Core generative modelling & synthetic data
+sdv
+
+# Privacy mechanisms
+diffprivlib==0.6.4
+
+# Bias & fairness auditing
+aequitas==0.42.0
+
+# Data manipulation
+pandas==2.1.4
+numpy==1.26.4
+
+# Machine learning
+scikit-learn==1.4.2
+
+# Visualisation
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Fake data augmentation
+faker==24.11.0
+
+# Jupyter notebook support
+jupyter==1.0.0
+ipykernel==6.29.4
+nbformat==5.10.4
+
+# Utility
+tqdm==4.66.4
+joblib==1.4.2
+
+# UI dashboard
+streamlit
+python-dotenv
+google-generativeai
